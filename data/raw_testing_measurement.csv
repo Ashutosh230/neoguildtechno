@@ -1,0 +1,205 @@
+SNo,Category,ProductDescription,Brand
+1,Digital Storage Oscilloscope,100 MHz 2 Channel UTD2102CEX+,UNI-T
+2,LCR Meter,100KHz LCR Meter UTR2830E,UNI-T
+3,LCR Meter,200KHz LCR Meter UTR2832E,UNI-T
+4,LCR Meter,300KHz LCR Meter UTR2833E,UNI-T
+5,DC Electronic Load,DC Load UTL8211+,UNI-T
+6,DC Electronic Load,DC Load UTL8212+,UNI-T
+7,Hipot Tester,UT5310R+ Hipot,UNI-T
+8,AC Power Supply,Hantek AC Power Supply 3KVA,Hantek
+9,DC Electronic Load,Hantek DC Load 2513C+,Hantek
+10,Digital Storage Oscilloscope,Rigol DHO804,Rigol
+11,Digital Storage Oscilloscope,Rigol DHO814,Rigol
+12,Digital Storage Oscilloscope,Rigol DHO924S,Rigol
+13,Data Acquisition System,Rigol M302 DAQ,Rigol
+21,Digital Storage Oscilloscope,"SDS 1022+ - 50 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",OWON
+22,Digital Storage Oscilloscope,"SDS 1102+ - 100 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",OWON
+23,Digital Storage Oscilloscope,"SDS 212S - 120 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",OWON
+24,Digital Storage Oscilloscope,"SDS 1202 - 200 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software",OWON
+25,Digital Storage Oscilloscope,"SDS 222S - 225 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",OWON
+26,Digital Storage Oscilloscope,"SDS 5032E - 30 MHz 2 CH Coloured LCD 8in 250MS/s USB+Software",OWON
+27,Digital Storage Oscilloscope,"SDS 7102V - 100 MHz 2 CH VGA Coloured LCD 8in 1GS/s USB+Software",OWON
+28,Digital Storage Oscilloscope,"MTQ 1016B - 10 MHz Single Trace LCD Display 1:10 Probe (1)",MetroQ
+29,Digital Storage Oscilloscope,"ADS 3354A (4 CH) - 350 MHz 4 CH 12 Bit LCD 10.1in TouchScreen 2.5GS/s 100M Record USB+Software",OWON
+30,Digital Storage Oscilloscope,"ADS 3504A (4 CH) - 500 MHz 4 CH 12 Bit LCD 10.1in TouchScreen 2.5GS/s 100M Record USB+Software",OWON
+31,Digital Storage Oscilloscope,"SDS 1104 (4 CH) - 100 MHz Economical Model 4CH Coloured LCD 7in 1GS/s USB+Software",OWON
+32,Digital Storage Oscilloscope,"XDS 3204E (4 CH) - 200 MHz 4CH Coloured LCD 8in 1GS/s USB+Software",OWON
+33,Digital Storage Oscilloscope,"ADS 812A - 100 MHz 2 CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",OWON
+34,Digital Storage Oscilloscope,"ADS 804A (4 CH) - 70 MHz 4CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",OWON
+35,Digital Storage Oscilloscope,"ADS 814A (4 CH) - 100 MHz 4CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",OWON
+36,DC Electronic Load,"OEL 8511TV - DC 150V/20A/200W 3.9in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",OWON
+37,DC Electronic Load,"OEL 8512TV - DC 150V/40A/400W 3.9in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",OWON
+38,DC Electronic Load,"OEL 1530TV - DC 150V/30A/300W 2.8in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",OWON
+39,DC Electronic Load,"OEL 3030TV - DC 300V/30A/300W 2.8in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",OWON
+40,Spectrum Analyzer,"XSA 1015-TG - 1.5GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",OWON
+41,Spectrum Analyzer,"XSA 1036-TG - 3.6GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",OWON
+42,Spectrum Analyzer,"XSA 1075-TG - 7.5GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",OWON
+43,Arbitrary Function Generator,"AG 1011F - 10MHz Arbitrary Function Generator Counter 4in Coloured LCD USB+Software",OWON
+44,Arbitrary Function Generator,"AG 1022F - 25 MHz Arbitrary Function Generator 2 CH Counter 4in Coloured LCD USB+Software",OWON
+45,Arbitrary Function Generator,"DGE 2035 - 35MHz Economical Arbitrary Function Generator 2CH 3.6in Colour LCD USB+Software",OWON
+46,Arbitrary Function Generator,"DGE 3062 - 60MHz Economical Arbitrary Function Generator 2CH 3.6in Colour LCD USB+Software",OWON
+47,Bench Top Digital Multimeter,"XDM 1041 - Semi Bench DMM 55000 Count TRMS 3.7in LCD USB+Software",OWON
+48,Bench Top Digital Multimeter,"XDM 1241 - Semi Bench DMM 55000 Count TRMS 3.7in LCD USB+Software Rechargeable Battery",OWON
+49,Bench Top Digital Multimeter,"XDM 2041 - Bench DMM 55000 Count 4Wire Measure TRMS 3.7in Coloured LCD USB+Software",OWON
+50,Bench Top Digital Multimeter,"XDM 1051 - Semi Bench DMM 5.5 Digit/120000Count TRMS 3.5in LCD USB+Software",OWON
+51,Bench Top Digital Multimeter,"XDM 1251 - Semi Bench DMM 5.5 Digit/120000Count TRMS 3.5in LCD USB+Software Rechargeable Battery",OWON
+52,Bench Top Digital Multimeter,"XDM 3051 - Bench DMM 5.5 Digit/200000Count TRMS 4in LCD USB+Software",OWON
+53,Bench Top Digital Multimeter,"XDM6061 - Bench DMM 6.5 Digit/2200000Count TRMS 4.3in Touch LCD USB+Software",OWON
+54,DC Power Supply,"MTQ 32051 - Linear 0-32V/5A/150W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",MetroQ
+55,DC Power Supply,"MTQ 32103 - Linear 0-32V/10A/300W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",MetroQ
+56,DC Power Supply,"MTQ 64013 - Linear 0-64V/10A/300W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",MetroQ
+57,DC Power Supply,"ODP 8354 - Programmable DC 4in Coloured LCD 3 Ch 2*0-30V/3A 1*0-6V/3A USB+Software",OWON
+58,DC Power Supply,"P 4305 - Programmable DC 3.7in Coloured LCD 0-30V/5A 150W USB+RS232+Software",OWON
+59,DC Power Supply,"P 4603 - Programmable DC 3.7in Coloured LCD 0-60V/3A 180W USB+RS232+Software",OWON
+60,DC Power Supply,"SPE 3102 - SMPS Programmable DC 2.8in LCD 0-30V/10A Max 200W USB+Software",OWON
+61,DC Power Supply,"SPE 6103 - SMPS Programmable DC 2.8in LCD 0-60V/10A Max 300W USB+Software",OWON
+62,DC Power Supply,"SPE 15054 - SMPS Programmable DC 2.8in LCD 0-150V/5A Max 400W USB+Software",OWON
+63,DC Power Supply,"SPM 8205 - SMPS Programmable DC + 4.5Dgt DMM 2.8in LCD 0-80V/20A 500W USB+Software",OWON
+64,DC Power Supply,"OWH Series - High Wattage/Amp 1/2/3/6/8KW options Rackable MultiSeries with USB+Software",OWON
+65,Digital Storage Oscilloscope,"MTQ 1016B - 10 MHz Single Trace LCD Display 1:10 Probe (1)",MetroQ
+66,Digital Storage Oscilloscope,"MTQ 5020 - 20 MHz Dual Trace Dual Channel 1:10 Probe (2)",MetroQ
+67,Digital Storage Oscilloscope,"MTQ 5020C - 20 MHz Dual Trace Dual Channel 1:10 Probe (2) + Component Tester",MetroQ
+68,Digital Storage Oscilloscope,"MTQ 5030 - 30 MHz Dual Trace Dual Channel 1:10 Probe (2)",MetroQ
+69,LCR Meter,"MTQ 1500 - Capacitor Meter HandHeld 0.1 Pico Farad to 20,000 Micro Farad",MetroQ
+70,LCR Meter,"MTQ 4070 - LCR Meter Hand Held 3.5 Dgt Inductance Capacitor Resistance",MetroQ
+71,LCR Meter,"MTQ 301 - LCR Bridge Meter Bench Type 4 Dgt Inductance Capacitor Resistance",MetroQ
+72,LCR Meter,"MTQ 8C - LCR Meter Bench Type Dual Digital Display Q/D Measurement",MetroQ
+73,LCR Meter,"MTQ 4910 - LCR Meter Bench X/D/Q/ESR 100Hz-10KHz 3.5in Colour LCD USB+Software",MetroQ
+74,LCR Meter,"MTQ4912 - LCR Meter Bench X/D/Q/ESR 100Hz-100KHz 3.5in Colour LCD USB+Software",MetroQ
+75,Arbitrary Function Generator,"MTQ 1515 - DDS Function Generator 20 MHz 2 CH Colour LCD Display Counter USB+Software",MetroQ
+76,Arbitrary Function Generator,"MTQ 4040 - DDS Function Generator 40 MHz 2 CH Colour LCD Display Counter USB+Software",MetroQ
+77,Arbitrary Function Generator,"MTQ 6060 - DDS Function Generator 60 MHz 2 CH Colour LCD Display Counter USB+Software",MetroQ
+78,Insulation Tester,"MTQ 9010 - Digital Insulation/Megger 250/500/1000 V 40 G-Ohm with DMM",MetroQ
+79,Insulation Tester,"MTQ 9025 - Digital Insulation/Megger 500/1000/2500 V 40G-Ohm with DMM",MetroQ
+80,Insulation Tester,"MTQ 9500 - Digital Insulation/Megger 500/1000/2500/5000 V 200 G-Ohm (220VAC Option)",MetroQ
+81,Insulation Tester,"MTQ 9005 - Digital Insulation/Megger 50/100/250/500/1000V 2000 KOhm with DMM",MetroQ
+82,Insulation Tester,"MTQ 9015 - Digital Insulation/Megger 50/100/250/500/1000V 20 G-Ohm PI/DAR with DMM",MetroQ
+83,Insulation Tester,"MTQ 9035 - Digital Insulation/Megger 100/250/500/1000/2500V 50 G-Ohm PI/DAR with DMM",MetroQ
+84,Environmental Testing,"MTQ 8044 - Wood Moisture 4 Pin Up to 40%",MetroQ
+85,Environmental Testing,"MTQ 8055+ - Sound Level 30-130dB Colour LCD A/C/Z Data Logger USB",MetroQ
+86,Environmental Testing,"MTQ 8011+ - Anemo Meter Air Velocity/Flow/Temperature Colour LCD Data Logger USB",MetroQ
+87,Hipot Tester,"MTQ HV5K - High Voltage Breakdown Tester Digital 5kV AC 30mA with One HV Probe",MetroQ
+88,Environmental Testing,"MTQ 1010D - Lux Meter Digital Autorange 0.1 to 2,00,000 Lux",MetroQ
+89,DC Power Supply,"MTQ 3002 - Digital Display 30V DC/2 Amp/60W",MetroQ
+90,DC Power Supply,"MTQ 3002D - Digital Display 30V DC/2 Amp (Dual)/60W+60W",MetroQ
+91,DC Power Supply,"MTQ 3005 - Digital Display 30V DC/5 Amp/150W",MetroQ
+92,DC Power Supply,"MTQ 3010 - Digital Display 30V DC/10 Amp/300W",MetroQ
+93,DC Power Supply,"MTQ 6002 - Digital Display 60V DC/2 Amp/120W",MetroQ
+94,DC Power Supply,"MTQ 6005 - Digital Display 60V DC/5 Amp/300W",MetroQ
+95,DC Power Supply,"MTQ 6010 - Digital Display 60V DC/10 Amp/600W",MetroQ
+96,Environmental Testing,"MTQ 580TDH - Infrared Dual Laser -50C to 550C D/S 12:1 Emis 0.1-1.0 K Type Humidity/Temp",MetroQ
+97,Environmental Testing,"MTQ X550 - Infrared NonContact Small -50C To 550C D/S 12:1 Variable Emissivity 0.1-1.0",MetroQ
+98,Environmental Testing,"MTQ X550CLR - Infrared NonContact Colour LCD -50C To 550C D/S 12:1 Variable Emissivity 0.1-1.0",MetroQ
+99,Environmental Testing,"MTQ 1500IR - Infrared NonContact Dual Laser -50C To 1500C D/S 30:1 Variable Emissivity",MetroQ
+100,Environmental Testing,"MTQ HTC 1 - Temperature -50C to +70C Humidity Clock (Large Display)",MetroQ
+101,Environmental Testing,"MTQ 9269 - Multistem with External Metal Probe Temperature -50C to +300C",MetroQ
+102,Digital Storage Oscilloscope,"SDS2354X Plus - 350MHz 4 Channel 2GS/s sampling rate 200Mpoints memory depth 10.1in color touch",Siglent
+103,Digital Storage Oscilloscope,"SDS824X HD - 200MHz 4 Channel 2GS/s sampling rate 12 BIT high resolution 100Mpoints memory depth 7in color touch",Siglent
+104,Digital Storage Oscilloscope,"SDS814X HD - 100MHz 4 Channel 2GS/s sampling rate 12 BIT high resolution 100Mpoints memory depth 7in color touch",Siglent
+105,Digital Storage Oscilloscope,"SDS812X HD - 100MHz 2 channels 2GSa/s 12-bit high resolution 50Mpts memory depth mixed signal oscilloscope 7in touch",Siglent
+106,Digital Storage Oscilloscope,"SDS1202X-E - 200MHz 2 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",Siglent
+107,Digital Storage Oscilloscope,"SDS1204X-E - 200MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",Siglent
+108,Digital Storage Oscilloscope,"SDS1104X-E - 100MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",Siglent
+109,Digital Storage Oscilloscope,"SDS1104X-U - 100MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",Siglent
+110,Digital Storage Oscilloscope,"SDS1102CML+ - 100MHz 2 Channel 1GS/s sampling rate 2Mpoints memory depth 7in color display",Siglent
+111,Digital Storage Oscilloscope,"SDS1052DL+ - 50MHz 2 Channel 500MS/s sampling rate 32Kpoints memory depth 7in color display",Siglent
+112,Arbitrary Function Generator,"SDG2042X - 40MHz 2 channels 1.2GSa/s up to 8 Mpts",Siglent
+113,Arbitrary Function Generator,"SDG1032X - 30MHz 2 channel 150MSa/s 16Kpts",Siglent
+114,Arbitrary Function Generator,"SDG830 - 30MHz 1 channel",Siglent
+115,Arbitrary Function Generator,"SDG810 - 10MHz 1 channel",Siglent
+116,DC Power Supply,"SPS5045X - Triple output switch mode power supply 0-40V/30A/360W x3",Siglent
+117,DC Power Supply,"SPS5082X - Single channel switch mode power supply 0-80V/30A/720W",Siglent
+118,DC Power Supply,"SPS5043X - Single channel switch mode power supply 0-40V/90A/1080W",Siglent
+119,DC Power Supply,"SPD3303X - Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",Siglent
+120,DC Power Supply,"SPD3303X-E - Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",Siglent
+121,DC Power Supply,"SPD3303C - Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",Siglent
+122,DC Power Supply,"SPD1305X - Single output programmable DC power supply 0-30V/0-5A",Siglent
+123,DC Power Supply,"SPD1168X - Single output programmable DC power supply 0-16V/0-8A",Siglent
+124,Bench Top Digital Multimeter,"SDM4065A - True RMS bench top digital multimeter 6.5 Digit",Siglent
+125,Bench Top Digital Multimeter,"SDM4055A-SC - True RMS bench top digital multimeter 5.5 Digit with scanner card",Siglent
+126,Bench Top Digital Multimeter,"SDM4055A - True RMS bench top digital multimeter 5.5 Digit",Siglent
+127,Bench Top Digital Multimeter,"SDM3065X - True RMS bench top digital multimeter 6.5 Digit",Siglent
+128,Bench Top Digital Multimeter,"SDM3055 - True RMS bench top digital multimeter 5.5 Digit",Siglent
+129,Bench Top Digital Multimeter,"SDM3045X - True RMS bench top digital multimeter 4.5 Digit",Siglent
+130,DC Electronic Load,"SDL1030X - DC electronics load 300W/0-150V/30A",Siglent
+131,DC Electronic Load,"SDL1020X - DC electronics load 200W/0-150V/30A",Siglent
+132,DC Electronic Load,"SDL1020X-E - DC electronics load 200W/0-150V/30A",Siglent
+133,Spectrum Analyzer,"SSA3075X Plus - Spectrum analyzer 9KHz to 7.5GHz",Siglent
+134,Spectrum Analyzer,"SSA3032X Plus - Spectrum analyzer 9KHz to 3.2GHz",Siglent
+135,Environmental Testing,"Testo 511 - Absolute/barometric pressure and altitude meter 300-1200 hPa 0.1 hPa resolution",Testo
+136,Environmental Testing,"Testo 540 - Lux meter 0-99,999 lux",Testo
+137,Environmental Testing,"Testo 610 - Air humidity and temperature meter with dew point and wet bulb",Testo
+138,Environmental Testing,"Testo 810 - Air and infrared surface thermometer -30 to 300C",Testo
+139,Environmental Testing,"Testo 410-1 - Vane anemometer with temperature measurement",Testo
+140,Environmental Testing,"Testo 410-2 - Vane anemometer with temperature and humidity measurement",Testo
+141,Environmental Testing,"Testo 606-1 - Material moisture meter",Testo
+142,Environmental Testing,"Testo 606-2 - Material moisture air humidity and temperature meter",Testo
+143,Environmental Testing,"Testo 405-V1 - Thermal anemometer with temperature measurement",Testo
+144,Environmental Testing,"Testo 605-H1 - Humidity measurement stick",Testo
+145,Environmental Testing,"Testo 510 - Differential pressure meter 10-100 hPa",Testo
+146,Environmental Testing,"Testo 830 T1 - Non-contact infrared temperature meter -30 to 400C",Testo
+147,Environmental Testing,"Testo 608-H1 - Thermohygrometer",Testo
+148,Environmental Testing,"Testo 608-H2 - Thermohygrometer with LED alarm",Testo
+149,Environmental Testing,"Testo 625 - Portable hygrometer",Testo
+150,Environmental Testing,"Testo 925 - 1-channel temperature measuring instrument",Testo
+151,Environmental Testing,"Testo 922 - Differential temperature measuring instrument",Testo
+152,Environmental Testing,"testo 405i - Smart thermal anemometer",Testo
+153,Environmental Testing,"testo 410i - Smart vane anemometer",Testo
+154,Environmental Testing,"testo 510i - Smart differential pressure meter",Testo
+155,Environmental Testing,"testo 549i - Smart high-pressure meter",Testo
+156,Environmental Testing,"testo 605i - Smart thermohygrometer",Testo
+157,Environmental Testing,"testo 805i - Smart infrared thermometer",Testo
+158,Thermal Imager,"Testo 860i - Thermal imager",Testo
+159,Thermal Imager,"UT-Z002 Macro Lens",UNI-T
+160,Thermal Imager,"UTi260B Thermal Imager with Macro Lens Combo",UNI-T
+161,Thermal Imager,"UTi260B Thermal Imager",UNI-T
+162,Thermal Imager,"RT-915B LED Screen Jumbo Display Temp + RH Meter",R-tek
+163,Thermal Imager,"Digital Thermo Hygrometers - RT-108",R-tek
+164,Thermal Imager,"HTC-1 Digital ThermoHygrometer",R-tek
+165,Thermal Imager,"UTi32 High-Temp Thermal Imager",UNI-T
+166,Thermal Imager,"VT-100 Thermal Imaging Camera",HTC Instruments
+167,Thermal Imager,"Micro Lens UT-Z003",UNI-T
+168,Thermal Imager,"VT-108 Thermal Imager PrimeX Series",HTC Instruments
+169,Thermal Imager,"UTi716S Thermal Camera",UNI-T
+170,Thermal Imager,"VT-120 Thermal Imager",HTC Instruments
+171,Thermal Imager,"TG267 Thermal Camera",FLIR
+172,Thermal Imager,"TG165-X Thermal Camera",FLIR
+173,Thermal Imager,"One Edge Pro Thermal Camera",FLIR
+174,Thermal Imager,"UTi720E Enhanced Thermal Camera",UNI-T
+175,Thermal Imager,"GTC 400 C Thermal Imager Camera",Bosch
+176,Thermal Imager,"UTi720B Thermal Imager with Macro Lens Comb",UNI-T
+177,Thermal Imager,"UTi720B Heavy Duty Thermal Camera",UNI-T
+178,Thermal Imager,"UTI730V Enhanced Thermal Camera- Video",UNI-T
+179,Thermal Imager,"GTC 600C Thermal Imager",Bosch
+180,Thermal Imager,"UTi730E Enhanced Thermal Camera",UNI-T
+181,Thermal Imager,"UTi120P Pocket-sized Thermal Camera",UNI-T
+182,Thermal Imager,"UTi120T Pocket-sized Thermal Imaging Camera",UNI-T
+183,Thermal Imager,"VT 110 Thermal Imager",HTC Instruments
+184,Digital Storage Oscilloscope,"DSO2C10 Oscilloscope 100 Mhz 2 Channel- Promo 2 Probes",Hantek
+185,Digital Storage Oscilloscope,"ADS812A 12bits Digital Oscilloscope- 100 Mhz 2 Channel",OWON
+186,Digital Storage Oscilloscope,"SDS1022+ Digital Oscilloscope with Function Generator- 50 Mhz 2 Channel",OWON
+187,Digital Storage Oscilloscope,"HDS272S Handheld Digital Oscilloscope- 70 Mhz 2 Channel",OWON
+188,Digital Storage Oscilloscope,"6022BL PC USB Oscilloscope",Hantek
+189,Digital Storage Oscilloscope,"MTQ 1811 Audio Service Oscillator",MetroQ
+190,Digital Storage Oscilloscope,"SDS1102+ Digital Oscilloscope with Function Generator",OWON
+191,Digital Storage Oscilloscope,"DSO2D10 Oscilloscope 100MHz 2 Ch",Hantek
+192,Digital Storage Oscilloscope,"6022BE PC USB Oscilloscope",Hantek
+193,Digital Storage Oscilloscope,"UTD2202CEX+ Digital Storage Oscilloscope - 200MHz 2 Ch",UNI-T
+194,Digital Storage Oscilloscope,"HDS242 Handheld Digital Oscilloscope- 40 Mhz",OWON
+195,Digital Storage Oscilloscope,"AS101/MTQ 1016B Analogue Oscilloscope- 10 MHz 1 Channel",OWON
+196,Digital Storage Oscilloscope,"ADS804A 12bits Digital Oscilloscope- 70 Mhz 4 Channel",OWON
+197,Digital Storage Oscilloscope,"HDS2202S Handheld Digital Oscilloscope- 200 Mhz",OWON
+198,Digital Storage Oscilloscope,"DSO-10100S Digital Storage Oscilloscope 2 Channel 100 Mhz",HTC Instruments
+199,Digital Storage Oscilloscope,"SDS1202 Digital Storage Oscilloscope (DSO)- 200MHz Dual Channel",OWON
+200,Digital Storage Oscilloscope,"UPO1084HD High-resolution Oscilloscope 80MHz 4Ch",UNI-T
+201,Digital Storage Oscilloscope,"SDS1104 Digital Oscilloscope- 100 Mhz 4 Channel",OWON
+202,Digital Storage Oscilloscope,"2D72 Handheld Oscilloscope",Hantek
+203,Digital Storage Oscilloscope,"1008C Oscilloscope 8 Channel",Hantek
+204,Digital Storage Oscilloscope,"ADS814A 12bits Digital Oscilloscope- 100 Mhz 4 Channel",OWON
+205,Digital Storage Oscilloscope,"SDS212S Digital Oscilloscope- 120Mhz 2Channel + Function Generator",OWON
+206,Digital Storage Oscilloscope,"MSO5054HD 12-Bit 500MHz 4Ch Mixed Signal Oscilloscope",UNI-T
+207,Digital Storage Oscilloscope,"UPO1152HD High-resolution Oscilloscope 150MHz 2Ch",UNI-T
+208,Digital Storage Oscilloscope,"XDS 3204E Digital Oscilloscope- 4 Channel 200 Mhz",OWON
+209,Digital Storage Oscilloscope,"ADS3354A 350MHz (4CH) 12-bit Digital Oscilloscope",OWON
+210,Digital Storage Oscilloscope,"ADS3504A 500MHz (4CH) 12-bit Digital Oscilloscope",OWON
+211,Digital Storage Oscilloscope,"DHO812- Oscilloscope- 100 Mhz 2 Channel",Rigol

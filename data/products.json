@@ -1,0 +1,4494 @@
+{
+  "categories": [
+    {
+      "id": "testing-measurement",
+      "name": "Testing and Measurement",
+      "subcategories": [
+        {
+          "id": "digital-storage-oscilloscope",
+          "name": "Digital Storage Oscilloscope",
+          "products": [
+            {
+              "id": "tm-001",
+              "name": "100 MHz 2 Channel UTD2102CEX+",
+              "brand": "UNI-T",
+              "sku": "UTD2102CEX",
+              "spec": "100 MHz 2 Channel UTD2102CEX+",
+              "price": "25499.00",
+              "image": "https://images.toolworld.in/product/1642706455.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=10670&pn=UTD2102CEX++Digital+Storage+Oscilloscope-+100Mhz%2C+2+Channel",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-010",
+              "name": "Rigol DHO804",
+              "brand": "Rigol",
+              "sku": "DHO804",
+              "spec": "Rigol DHO804",
+              "price": "48500.00",
+              "image": "https://images.toolworld.in/product/1743847572.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13442&pn=DHO804+Oscilloscope",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-011",
+              "name": "Rigol DHO814",
+              "brand": "Rigol",
+              "sku": "DHO814",
+              "spec": "Rigol DHO814",
+              "price": "57500.00",
+              "image": "https://images.toolworld.in/product/1743847244.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13441",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-012",
+              "name": "Rigol DHO924S",
+              "brand": "Rigol",
+              "sku": "DHO924S",
+              "spec": "Rigol DHO924S",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-014",
+              "name": "SDS 1022+ - 50 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "brand": "OWON",
+              "sku": "SDS 1022",
+              "spec": "50 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "price": "16430.00",
+              "image": "https://images.toolworld.in/product/1762754557.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13808&pn=SDS1022%2B+Digital+Oscilloscope+with+Function+Generator-+50+Mhz+2+Channel",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-015",
+              "name": "SDS 1102+ - 100 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "brand": "OWON",
+              "sku": "SDS 1102",
+              "spec": "100 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "price": "18961.00",
+              "image": "https://images.toolworld.in/product/1750761516.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13587&pn=SDS1102%2B+Digital+Oscilloscope+with+Function+Generator",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-016",
+              "name": "SDS 212S - 120 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "brand": "OWON",
+              "sku": "SDS 212S",
+              "spec": "120 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "price": "21850.00",
+              "image": "https://images.toolworld.in/product/1753860876.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13140&pn=SDS212S+Digital+Oscilloscope-+120Mhz%2C+2Channel+++Function+Generator",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-017",
+              "name": "SDS 1202 - 200 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software",
+              "brand": "OWON",
+              "sku": "SDS 1202",
+              "spec": "200 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software",
+              "price": "29460.00",
+              "image": "https://images.toolworld.in/product/SDS1202-1.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=SDS1202",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-018",
+              "name": "SDS 222S - 225 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "brand": "OWON",
+              "sku": "SDS 222S",
+              "spec": "225 MHz 2 CH Coloured LCD 7in 1GS/s USB+Software with Function Generator",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-019",
+              "name": "SDS 5032E - 30 MHz 2 CH Coloured LCD 8in 250MS/s USB+Software",
+              "brand": "OWON",
+              "sku": "SDS 5032E",
+              "spec": "30 MHz 2 CH Coloured LCD 8in 250MS/s USB+Software",
+              "price": "25323.00",
+              "image": "https://images.toolworld.in/product/1744182792.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=1118&pn=SDS-5032E+30+MHz+Digital+Storage+Oscilloscope+(DSO)",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-020",
+              "name": "SDS 7102V - 100 MHz 2 CH VGA Coloured LCD 8in 1GS/s USB+Software",
+              "brand": "OWON",
+              "sku": "SDS 7102V",
+              "spec": "100 MHz 2 CH VGA Coloured LCD 8in 1GS/s USB+Software",
+              "price": "28750.00",
+              "image": "https://images.toolworld.in/product/1744182947.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=1120",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-021",
+              "name": "MTQ 1016B - 10 MHz Single Trace LCD Display 1:10 Probe (1)",
+              "brand": "MetroQ",
+              "sku": "MTQ 1016B",
+              "spec": "10 MHz Single Trace LCD Display 1:10 Probe (1)",
+              "price": "11200.00",
+              "image": "https://images.toolworld.in/product/MTQ1016BA-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=9803",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-022",
+              "name": "ADS 3354A (4 CH) - 350 MHz 4 CH 12 Bit LCD 10.1in TouchScreen 2.5GS/s 100M Record USB+Software",
+              "brand": "OWON",
+              "sku": "CH 12",
+              "spec": "350 MHz 4 CH 12 Bit LCD 10.1in TouchScreen 2.5GS/s 100M Record USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-023",
+              "name": "ADS 3504A (4 CH) - 500 MHz 4 CH 12 Bit LCD 10.1in TouchScreen 2.5GS/s 100M Record USB+Software",
+              "brand": "OWON",
+              "sku": "CH 12",
+              "spec": "500 MHz 4 CH 12 Bit LCD 10.1in TouchScreen 2.5GS/s 100M Record USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-024",
+              "name": "SDS 1104 (4 CH) - 100 MHz Economical Model 4CH Coloured LCD 7in 1GS/s USB+Software",
+              "brand": "OWON",
+              "sku": "SDS 1104",
+              "spec": "100 MHz Economical Model 4CH Coloured LCD 7in 1GS/s USB+Software",
+              "price": "32600.00",
+              "image": "https://images.toolworld.in/product/1670140554.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11507&pn=SDS1104+Digital+Oscilloscope-+100+Mhz%2C+4+Channel",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-025",
+              "name": "XDS 3204E (4 CH) - 200 MHz 4CH Coloured LCD 8in 1GS/s USB+Software",
+              "brand": "OWON",
+              "sku": "XDS 3204E",
+              "spec": "200 MHz 4CH Coloured LCD 8in 1GS/s USB+Software",
+              "price": "62312.00",
+              "image": "https://images.toolworld.in/product/1627337751.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=10385",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-026",
+              "name": "ADS 812A - 100 MHz 2 CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",
+              "brand": "OWON",
+              "sku": "CH 12",
+              "spec": "100 MHz 2 CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-027",
+              "name": "ADS 804A (4 CH) - 70 MHz 4CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",
+              "brand": "OWON",
+              "sku": "s 50M",
+              "spec": "70 MHz 4CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",
+              "price": "37369.00",
+              "image": "https://images.toolworld.in/product/1753952129.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13608&pn=ADS804A+12bits+Digital+Oscilloscope-+70+Mhz+4+Channel",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-028",
+              "name": "ADS 814A (4 CH) - 100 MHz 4CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",
+              "brand": "OWON",
+              "sku": "s 50M",
+              "spec": "100 MHz 4CH 12 Bit LCD 7in TouchScreen 1.25GS/s 50M Record USB+Software",
+              "price": "41326.00",
+              "image": "https://images.toolworld.in/product/1753952632.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13610&pn=ADS814A+12bits+Digital+Oscilloscope",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-058",
+              "name": "MTQ 1016B - 10 MHz Single Trace LCD Display 1:10 Probe (1)",
+              "brand": "MetroQ",
+              "sku": "MTQ 1016B",
+              "spec": "10 MHz Single Trace LCD Display 1:10 Probe (1)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-059",
+              "name": "MTQ 5020 - 20 MHz Dual Trace Dual Channel 1:10 Probe (2)",
+              "brand": "MetroQ",
+              "sku": "MTQ 5020",
+              "spec": "20 MHz Dual Trace Dual Channel 1:10 Probe (2)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-060",
+              "name": "MTQ 5020C - 20 MHz Dual Trace Dual Channel 1:10 Probe (2) + Component Tester",
+              "brand": "MetroQ",
+              "sku": "MTQ 5020C",
+              "spec": "20 MHz Dual Trace Dual Channel 1:10 Probe (2) + Component Tester",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-061",
+              "name": "MTQ 5030 - 30 MHz Dual Trace Dual Channel 1:10 Probe (2)",
+              "brand": "MetroQ",
+              "sku": "MTQ 5030",
+              "spec": "30 MHz Dual Trace Dual Channel 1:10 Probe (2)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-095",
+              "name": "SDS2354X Plus - 350MHz 4 Channel 2GS/s sampling rate 200Mpoints memory depth 10.1in color touch",
+              "brand": "Siglent",
+              "sku": "SDS2354X",
+              "spec": "350MHz 4 Channel 2GS/s sampling rate 200Mpoints memory depth 10.1in color touch",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-096",
+              "name": "SDS824X HD - 200MHz 4 Channel 2GS/s sampling rate 12 BIT high resolution 100Mpoints memory depth 7in color touch",
+              "brand": "Siglent",
+              "sku": "SDS824X",
+              "spec": "200MHz 4 Channel 2GS/s sampling rate 12 BIT high resolution 100Mpoints memory depth 7in...",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-097",
+              "name": "SDS814X HD - 100MHz 4 Channel 2GS/s sampling rate 12 BIT high resolution 100Mpoints memory depth 7in color touch",
+              "brand": "Siglent",
+              "sku": "SDS814X",
+              "spec": "100MHz 4 Channel 2GS/s sampling rate 12 BIT high resolution 100Mpoints memory depth 7in...",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-098",
+              "name": "SDS812X HD - 100MHz 2 channels 2GSa/s 12-bit high resolution 50Mpts memory depth mixed signal oscilloscope 7in touch",
+              "brand": "Siglent",
+              "sku": "SDS812X",
+              "spec": "100MHz 2 channels 2GSa/s 12-bit high resolution 50Mpts memory depth mixed signal oscill...",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-099",
+              "name": "SDS1202X-E - 200MHz 2 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "brand": "Siglent",
+              "sku": "SDS1202X-E",
+              "spec": "200MHz 2 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-100",
+              "name": "SDS1204X-E - 200MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "brand": "Siglent",
+              "sku": "SDS1204X-E",
+              "spec": "200MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-101",
+              "name": "SDS1104X-E - 100MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "brand": "Siglent",
+              "sku": "SDS1104X-E",
+              "spec": "100MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-102",
+              "name": "SDS1104X-U - 100MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "brand": "Siglent",
+              "sku": "SDS1104X-U",
+              "spec": "100MHz 4 Channel 1GS/s sampling rate 14Mpoints memory depth 7in color display",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-103",
+              "name": "SDS1102CML+ - 100MHz 2 Channel 1GS/s sampling rate 2Mpoints memory depth 7in color display",
+              "brand": "Siglent",
+              "sku": "SDS1102CML",
+              "spec": "100MHz 2 Channel 1GS/s sampling rate 2Mpoints memory depth 7in color display",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-104",
+              "name": "SDS1052DL+ - 50MHz 2 Channel 500MS/s sampling rate 32Kpoints memory depth 7in color display",
+              "brand": "Siglent",
+              "sku": "SDS1052DL",
+              "spec": "50MHz 2 Channel 500MS/s sampling rate 32Kpoints memory depth 7in color display",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-177",
+              "name": "DSO2C10 Oscilloscope 100 Mhz 2 Channel- Promo 2 Probes",
+              "brand": "Hantek",
+              "sku": "DSO2C10",
+              "spec": "DSO2C10 Oscilloscope 100 Mhz 2 Channel- Promo 2 Probes",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-178",
+              "name": "ADS812A 12bits Digital Oscilloscope- 100 Mhz 2 Channel",
+              "brand": "OWON",
+              "sku": "ADS812A",
+              "spec": "ADS812A 12bits Digital Oscilloscope- 100 Mhz 2 Channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-179",
+              "name": "SDS1022+ Digital Oscilloscope with Function Generator- 50 Mhz 2 Channel",
+              "brand": "OWON",
+              "sku": "SDS1022",
+              "spec": "SDS1022+ Digital Oscilloscope with Function Generator- 50 Mhz 2 Channel",
+              "price": "16430.00",
+              "image": "https://images.toolworld.in/product/1762754557.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13808&pn=SDS1022%2B+Digital+Oscilloscope+with+Function+Generator-+50+Mhz+2+Channel",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-180",
+              "name": "HDS272S Handheld Digital Oscilloscope- 70 Mhz 2 Channel",
+              "brand": "OWON",
+              "sku": "HDS272S",
+              "spec": "HDS272S Handheld Digital Oscilloscope- 70 Mhz 2 Channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-181",
+              "name": "6022BL PC USB Oscilloscope",
+              "brand": "Hantek",
+              "sku": "6022BL",
+              "spec": "6022BL PC USB Oscilloscope",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-182",
+              "name": "MTQ 1811 Audio Service Oscillator",
+              "brand": "MetroQ",
+              "sku": "MTQ 1811",
+              "spec": "MTQ 1811 Audio Service Oscillator",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-183",
+              "name": "SDS1102+ Digital Oscilloscope with Function Generator",
+              "brand": "OWON",
+              "sku": "SDS1102",
+              "spec": "SDS1102+ Digital Oscilloscope with Function Generator",
+              "price": "18961.00",
+              "image": "https://images.toolworld.in/product/1750761516.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13587&pn=SDS1102%2B+Digital+Oscilloscope+with+Function+Generator",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-184",
+              "name": "DSO2D10 Oscilloscope 100MHz 2 Ch",
+              "brand": "Hantek",
+              "sku": "DSO2D10",
+              "spec": "DSO2D10 Oscilloscope 100MHz 2 Ch",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-185",
+              "name": "6022BE PC USB Oscilloscope",
+              "brand": "Hantek",
+              "sku": "6022BE",
+              "spec": "6022BE PC USB Oscilloscope",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-186",
+              "name": "UTD2202CEX+ Digital Storage Oscilloscope - 200MHz 2 Ch",
+              "brand": "UNI-T",
+              "sku": "UTD2202CEX",
+              "spec": "200MHz 2 Ch",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-187",
+              "name": "HDS242 Handheld Digital Oscilloscope- 40 Mhz",
+              "brand": "OWON",
+              "sku": "HDS242",
+              "spec": "HDS242 Handheld Digital Oscilloscope- 40 Mhz",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-188",
+              "name": "AS101/MTQ 1016B Analogue Oscilloscope- 10 MHz 1 Channel",
+              "brand": "OWON",
+              "sku": "AS101",
+              "spec": "AS101/MTQ 1016B Analogue Oscilloscope- 10 MHz 1 Channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-189",
+              "name": "ADS804A 12bits Digital Oscilloscope- 70 Mhz 4 Channel",
+              "brand": "OWON",
+              "sku": "ADS804A",
+              "spec": "ADS804A 12bits Digital Oscilloscope- 70 Mhz 4 Channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-190",
+              "name": "HDS2202S Handheld Digital Oscilloscope- 200 Mhz",
+              "brand": "OWON",
+              "sku": "HDS2202S",
+              "spec": "HDS2202S Handheld Digital Oscilloscope- 200 Mhz",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-191",
+              "name": "DSO-10100S Digital Storage Oscilloscope 2 Channel 100 Mhz",
+              "brand": "HTC Instruments",
+              "sku": "DSO-10100S",
+              "spec": "DSO-10100S Digital Storage Oscilloscope 2 Channel 100 Mhz",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-192",
+              "name": "SDS1202 Digital Storage Oscilloscope (DSO)- 200MHz Dual Channel",
+              "brand": "OWON",
+              "sku": "SDS1202",
+              "spec": "SDS1202 Digital Storage Oscilloscope (DSO)- 200MHz Dual Channel",
+              "price": "29460.00",
+              "image": "https://images.toolworld.in/product/SDS1202-1.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=SDS1202",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-193",
+              "name": "UPO1084HD High-resolution Oscilloscope 80MHz 4Ch",
+              "brand": "UNI-T",
+              "sku": "UPO1084HD",
+              "spec": "UPO1084HD High-resolution Oscilloscope 80MHz 4Ch",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-194",
+              "name": "SDS1104 Digital Oscilloscope- 100 Mhz 4 Channel",
+              "brand": "OWON",
+              "sku": "SDS1104",
+              "spec": "SDS1104 Digital Oscilloscope- 100 Mhz 4 Channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-195",
+              "name": "2D72 Handheld Oscilloscope",
+              "brand": "Hantek",
+              "sku": "2D72",
+              "spec": "2D72 Handheld Oscilloscope",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-196",
+              "name": "1008C Oscilloscope 8 Channel",
+              "brand": "Hantek",
+              "sku": "1008C",
+              "spec": "1008C Oscilloscope 8 Channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-197",
+              "name": "ADS814A 12bits Digital Oscilloscope- 100 Mhz 4 Channel",
+              "brand": "OWON",
+              "sku": "ADS814A",
+              "spec": "ADS814A 12bits Digital Oscilloscope- 100 Mhz 4 Channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-198",
+              "name": "SDS212S Digital Oscilloscope- 120Mhz 2Channel + Function Generator",
+              "brand": "OWON",
+              "sku": "SDS212S",
+              "spec": "SDS212S Digital Oscilloscope- 120Mhz 2Channel + Function Generator",
+              "price": "21850.00",
+              "image": "https://images.toolworld.in/product/1753860876.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13140&pn=SDS212S+Digital+Oscilloscope-+120Mhz%2C+2Channel+++Function+Generator",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-199",
+              "name": "MSO5054HD 12-Bit 500MHz 4Ch Mixed Signal Oscilloscope",
+              "brand": "UNI-T",
+              "sku": "MSO5054HD",
+              "spec": "MSO5054HD 12-Bit 500MHz 4Ch Mixed Signal Oscilloscope",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-200",
+              "name": "UPO1152HD High-resolution Oscilloscope 150MHz 2Ch",
+              "brand": "UNI-T",
+              "sku": "UPO1152HD",
+              "spec": "UPO1152HD High-resolution Oscilloscope 150MHz 2Ch",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-201",
+              "name": "XDS 3204E Digital Oscilloscope- 4 Channel 200 Mhz",
+              "brand": "OWON",
+              "sku": "XDS 3204E",
+              "spec": "XDS 3204E Digital Oscilloscope- 4 Channel 200 Mhz",
+              "price": "62312.00",
+              "image": "https://images.toolworld.in/product/1627337751.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=10385",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-202",
+              "name": "ADS3354A 350MHz (4CH) 12-bit Digital Oscilloscope",
+              "brand": "OWON",
+              "sku": "ADS3354A",
+              "spec": "ADS3354A 350MHz (4CH) 12-bit Digital Oscilloscope",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-203",
+              "name": "ADS3504A 500MHz (4CH) 12-bit Digital Oscilloscope",
+              "brand": "OWON",
+              "sku": "ADS3504A",
+              "spec": "ADS3504A 500MHz (4CH) 12-bit Digital Oscilloscope",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-204",
+              "name": "DHO812- Oscilloscope- 100 Mhz 2 Channel",
+              "brand": "Rigol",
+              "sku": "DHO812",
+              "spec": "DHO812- Oscilloscope- 100 Mhz 2 Channel",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "lcr-meter",
+          "name": "LCR Meter",
+          "products": [
+            {
+              "id": "tm-002",
+              "name": "100KHz LCR Meter UTR2830E",
+              "brand": "UNI-T",
+              "sku": "UTR2830E",
+              "spec": "100KHz LCR Meter UTR2830E",
+              "price": "68750.00",
+              "image": "https://images.toolworld.in/product/1725532994.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=12896&pn=UTR2830E+LCR+Meter",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-003",
+              "name": "200KHz LCR Meter UTR2832E",
+              "brand": "UNI-T",
+              "sku": "UTR2832E",
+              "spec": "200KHz LCR Meter UTR2832E",
+              "price": "126500.00",
+              "image": "https://images.toolworld.in/product/1725533692.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=12897&pn=UTR2833E+LCR+Meter",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-004",
+              "name": "300KHz LCR Meter UTR2833E",
+              "brand": "UNI-T",
+              "sku": "UTR2833E",
+              "spec": "300KHz LCR Meter UTR2833E",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-062",
+              "name": "MTQ 1500 - Capacitor Meter HandHeld 0.1 Pico Farad to 20,000 Micro Farad",
+              "brand": "MetroQ",
+              "sku": "to 20",
+              "spec": "Capacitor Meter HandHeld 0.1 Pico Farad to 20,000 Micro Farad",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-063",
+              "name": "MTQ 4070 - LCR Meter Hand Held 3.5 Dgt Inductance Capacitor Resistance",
+              "brand": "MetroQ",
+              "sku": "MTQ 4070",
+              "spec": "LCR Meter Hand Held 3.5 Dgt Inductance Capacitor Resistance",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-064",
+              "name": "MTQ 301 - LCR Bridge Meter Bench Type 4 Dgt Inductance Capacitor Resistance",
+              "brand": "MetroQ",
+              "sku": "MTQ 301",
+              "spec": "LCR Bridge Meter Bench Type 4 Dgt Inductance Capacitor Resistance",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-065",
+              "name": "MTQ 8C - LCR Meter Bench Type Dual Digital Display Q/D Measurement",
+              "brand": "MetroQ",
+              "sku": "MTQ",
+              "spec": "LCR Meter Bench Type Dual Digital Display Q/D Measurement",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-066",
+              "name": "MTQ 4910 - LCR Meter Bench X/D/Q/ESR 100Hz-10KHz 3.5in Colour LCD USB+Software",
+              "brand": "MetroQ",
+              "sku": "MTQ 4910",
+              "spec": "LCR Meter Bench X/D/Q/ESR 100Hz-10KHz 3.5in Colour LCD USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-067",
+              "name": "MTQ4912 - LCR Meter Bench X/D/Q/ESR 100Hz-100KHz 3.5in Colour LCD USB+Software",
+              "brand": "MetroQ",
+              "sku": "MTQ4912",
+              "spec": "LCR Meter Bench X/D/Q/ESR 100Hz-100KHz 3.5in Colour LCD USB+Software",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "dc-electronic-load",
+          "name": "DC Electronic Load",
+          "products": [
+            {
+              "id": "tm-005",
+              "name": "DC Load UTL8211+",
+              "brand": "UNI-T",
+              "sku": "UTL8211",
+              "spec": "DC Load UTL8211+",
+              "price": "24995.00",
+              "image": "https://images.toolworld.in/product/1695809885.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=12148",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-006",
+              "name": "DC Load UTL8212+",
+              "brand": "UNI-T",
+              "sku": "UTL8212",
+              "spec": "DC Load UTL8212+",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-009",
+              "name": "Hantek DC Load 2513C+",
+              "brand": "Hantek",
+              "sku": "Load 2513C",
+              "spec": "Hantek DC Load 2513C+",
+              "price": "68750.00",
+              "image": "https://images.toolworld.in/product/1763376837.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13837&pn=HDL2513B++DC+Electronic+Loads+120V%2C+120A",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-029",
+              "name": "OEL 8511TV - DC 150V/20A/200W 3.9in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "brand": "OWON",
+              "sku": "DC 150V",
+              "spec": "DC 150V/20A/200W 3.9in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "price": "26720.00",
+              "image": "https://images.toolworld.in/product/1736753742.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product/oel8511-dc-electronic-load,--200w",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-030",
+              "name": "OEL 8512TV - DC 150V/40A/400W 3.9in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "brand": "OWON",
+              "sku": "DC 150V",
+              "spec": "DC 150V/40A/400W 3.9in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "price": "45600.00",
+              "image": "https://images.toolworld.in/product/1736753742.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=13192&pn=OEL8512+DC+Electronic+Load",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-031",
+              "name": "OEL 1530TV - DC 150V/30A/300W 2.8in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "brand": "OWON",
+              "sku": "DC 150V",
+              "spec": "DC 150V/30A/300W 2.8in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-032",
+              "name": "OEL 3030TV - DC 300V/30A/300W 2.8in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "brand": "OWON",
+              "sku": "DC 300V",
+              "spec": "DC 300V/30A/300W 2.8in TFT Battery (OCP/OPP)+Ripple Test USB/RS232+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-123",
+              "name": "SDL1030X - DC electronics load 300W/0-150V/30A",
+              "brand": "Siglent",
+              "sku": "SDL1030X",
+              "spec": "DC electronics load 300W/0-150V/30A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-124",
+              "name": "SDL1020X - DC electronics load 200W/0-150V/30A",
+              "brand": "Siglent",
+              "sku": "SDL1020X",
+              "spec": "DC electronics load 200W/0-150V/30A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-125",
+              "name": "SDL1020X-E - DC electronics load 200W/0-150V/30A",
+              "brand": "Siglent",
+              "sku": "load 200W",
+              "spec": "DC electronics load 200W/0-150V/30A",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "hipot-tester",
+          "name": "Hipot Tester",
+          "products": [
+            {
+              "id": "tm-007",
+              "name": "UT5310R+ Hipot",
+              "brand": "UNI-T",
+              "sku": "UT5310R",
+              "spec": "UT5310R+ Hipot",
+              "price": "91850.00",
+              "image": "https://images.toolworld.in/product/1681903247.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11846",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-080",
+              "name": "MTQ HV5K - High Voltage Breakdown Tester Digital 5kV AC 30mA with One HV Probe",
+              "brand": "MetroQ",
+              "sku": "AC 30mA",
+              "spec": "High Voltage Breakdown Tester Digital 5kV AC 30mA with One HV Probe",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "ac-power-supply",
+          "name": "AC Power Supply",
+          "products": [
+            {
+              "id": "tm-008",
+              "name": "Hantek AC Power Supply 3KVA",
+              "brand": "Hantek",
+              "sku": "Hantek",
+              "spec": "Hantek AC Power Supply 3KVA",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "data-acquisition-system",
+          "name": "Data Acquisition System",
+          "products": [
+            {
+              "id": "tm-013",
+              "name": "Rigol M302 DAQ",
+              "brand": "Rigol",
+              "sku": "M302",
+              "spec": "Rigol M302 DAQ",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "spectrum-analyzer",
+          "name": "Spectrum Analyzer",
+          "products": [
+            {
+              "id": "tm-033",
+              "name": "XSA 1015-TG - 1.5GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",
+              "brand": "OWON",
+              "sku": "LCD 10.4in",
+              "spec": "1.5GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-034",
+              "name": "XSA 1036-TG - 3.6GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",
+              "brand": "OWON",
+              "sku": "LCD 10.4in",
+              "spec": "3.6GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-035",
+              "name": "XSA 1075-TG - 7.5GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",
+              "brand": "OWON",
+              "sku": "LCD 10.4in",
+              "spec": "7.5GHz Tracking Generator Colour LCD 10.4in Touch VGA PhoneJack USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-126",
+              "name": "SSA3075X Plus - Spectrum analyzer 9KHz to 7.5GHz",
+              "brand": "Siglent",
+              "sku": "SSA3075X",
+              "spec": "Spectrum analyzer 9KHz to 7.5GHz",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-127",
+              "name": "SSA3032X Plus - Spectrum analyzer 9KHz to 3.2GHz",
+              "brand": "Siglent",
+              "sku": "SSA3032X",
+              "spec": "Spectrum analyzer 9KHz to 3.2GHz",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "arbitrary-function-generator",
+          "name": "Arbitrary Function Generator",
+          "products": [
+            {
+              "id": "tm-036",
+              "name": "AG 1011F - 10MHz Arbitrary Function Generator Counter 4in Coloured LCD USB+Software",
+              "brand": "OWON",
+              "sku": "AG 1011F",
+              "spec": "10MHz Arbitrary Function Generator Counter 4in Coloured LCD USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-037",
+              "name": "AG 1022F - 25 MHz Arbitrary Function Generator 2 CH Counter 4in Coloured LCD USB+Software",
+              "brand": "OWON",
+              "sku": "AG 1022F",
+              "spec": "25 MHz Arbitrary Function Generator 2 CH Counter 4in Coloured LCD USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-038",
+              "name": "DGE 2035 - 35MHz Economical Arbitrary Function Generator 2CH 3.6in Colour LCD USB+Software",
+              "brand": "OWON",
+              "sku": "DGE 2035",
+              "spec": "35MHz Economical Arbitrary Function Generator 2CH 3.6in Colour LCD USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-039",
+              "name": "DGE 3062 - 60MHz Economical Arbitrary Function Generator 2CH 3.6in Colour LCD USB+Software",
+              "brand": "OWON",
+              "sku": "DGE 3062",
+              "spec": "60MHz Economical Arbitrary Function Generator 2CH 3.6in Colour LCD USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-068",
+              "name": "MTQ 1515 - DDS Function Generator 20 MHz 2 CH Colour LCD Display Counter USB+Software",
+              "brand": "MetroQ",
+              "sku": "MTQ 1515",
+              "spec": "DDS Function Generator 20 MHz 2 CH Colour LCD Display Counter USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-069",
+              "name": "MTQ 4040 - DDS Function Generator 40 MHz 2 CH Colour LCD Display Counter USB+Software",
+              "brand": "MetroQ",
+              "sku": "MTQ 4040",
+              "spec": "DDS Function Generator 40 MHz 2 CH Colour LCD Display Counter USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-070",
+              "name": "MTQ 6060 - DDS Function Generator 60 MHz 2 CH Colour LCD Display Counter USB+Software",
+              "brand": "MetroQ",
+              "sku": "MTQ 6060",
+              "spec": "DDS Function Generator 60 MHz 2 CH Colour LCD Display Counter USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-105",
+              "name": "SDG2042X - 40MHz 2 channels 1.2GSa/s up to 8 Mpts",
+              "brand": "Siglent",
+              "sku": "SDG2042X",
+              "spec": "40MHz 2 channels 1.2GSa/s up to 8 Mpts",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-106",
+              "name": "SDG1032X - 30MHz 2 channel 150MSa/s 16Kpts",
+              "brand": "Siglent",
+              "sku": "SDG1032X",
+              "spec": "30MHz 2 channel 150MSa/s 16Kpts",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-107",
+              "name": "SDG830 - 30MHz 1 channel",
+              "brand": "Siglent",
+              "sku": "SDG830",
+              "spec": "30MHz 1 channel",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-108",
+              "name": "SDG810 - 10MHz 1 channel",
+              "brand": "Siglent",
+              "sku": "SDG810",
+              "spec": "10MHz 1 channel",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "bench-top-digital-multimeter",
+          "name": "Bench Top Digital Multimeter",
+          "products": [
+            {
+              "id": "tm-040",
+              "name": "XDM 1041 - Semi Bench DMM 55000 Count TRMS 3.7in LCD USB+Software",
+              "brand": "OWON",
+              "sku": "XDM 1041",
+              "spec": "Semi Bench DMM 55000 Count TRMS 3.7in LCD USB+Software",
+              "price": "11250.00",
+              "image": "https://images.toolworld.in/product/XDM1041-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=10342",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-041",
+              "name": "XDM 1241 - Semi Bench DMM 55000 Count TRMS 3.7in LCD USB+Software Rechargeable Battery",
+              "brand": "OWON",
+              "sku": "XDM 1241",
+              "spec": "Semi Bench DMM 55000 Count TRMS 3.7in LCD USB+Software Rechargeable Battery",
+              "price": "12242.00",
+              "image": "https://images.toolworld.in/product/1658992775.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11143",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-042",
+              "name": "XDM 2041 - Bench DMM 55000 Count 4Wire Measure TRMS 3.7in Coloured LCD USB+Software",
+              "brand": "OWON",
+              "sku": "XDM 2041",
+              "spec": "Bench DMM 55000 Count 4Wire Measure TRMS 3.7in Coloured LCD USB+Software",
+              "price": "16400.00",
+              "image": "https://images.toolworld.in/product/XDM2041-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=10341",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-043",
+              "name": "XDM 1051 - Semi Bench DMM 5.5 Digit/120000Count TRMS 3.5in LCD USB+Software",
+              "brand": "OWON",
+              "sku": "XDM 1051",
+              "spec": "Semi Bench DMM 5.5 Digit/120000Count TRMS 3.5in LCD USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-044",
+              "name": "XDM 1251 - Semi Bench DMM 5.5 Digit/120000Count TRMS 3.5in LCD USB+Software Rechargeable Battery",
+              "brand": "OWON",
+              "sku": "XDM 1251",
+              "spec": "Semi Bench DMM 5.5 Digit/120000Count TRMS 3.5in LCD USB+Software Rechargeable Battery",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-045",
+              "name": "XDM 3051 - Bench DMM 5.5 Digit/200000Count TRMS 4in LCD USB+Software",
+              "brand": "OWON",
+              "sku": "XDM 3051",
+              "spec": "Bench DMM 5.5 Digit/200000Count TRMS 4in LCD USB+Software",
+              "price": "39500.00",
+              "image": "https://images.toolworld.in/product/XDN3051-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=4459",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "tm-046",
+              "name": "XDM6061 - Bench DMM 6.5 Digit/2200000Count TRMS 4.3in Touch LCD USB+Software",
+              "brand": "OWON",
+              "sku": "XDM6061",
+              "spec": "Bench DMM 6.5 Digit/2200000Count TRMS 4.3in Touch LCD USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-117",
+              "name": "SDM4065A - True RMS bench top digital multimeter 6.5 Digit",
+              "brand": "Siglent",
+              "sku": "SDM4065A",
+              "spec": "True RMS bench top digital multimeter 6.5 Digit",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-118",
+              "name": "SDM4055A-SC - True RMS bench top digital multimeter 5.5 Digit with scanner card",
+              "brand": "Siglent",
+              "sku": "SDM4055A-SC",
+              "spec": "True RMS bench top digital multimeter 5.5 Digit with scanner card",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-119",
+              "name": "SDM4055A - True RMS bench top digital multimeter 5.5 Digit",
+              "brand": "Siglent",
+              "sku": "SDM4055A",
+              "spec": "True RMS bench top digital multimeter 5.5 Digit",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-120",
+              "name": "SDM3065X - True RMS bench top digital multimeter 6.5 Digit",
+              "brand": "Siglent",
+              "sku": "SDM3065X",
+              "spec": "True RMS bench top digital multimeter 6.5 Digit",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-121",
+              "name": "SDM3055 - True RMS bench top digital multimeter 5.5 Digit",
+              "brand": "Siglent",
+              "sku": "SDM3055",
+              "spec": "True RMS bench top digital multimeter 5.5 Digit",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-122",
+              "name": "SDM3045X - True RMS bench top digital multimeter 4.5 Digit",
+              "brand": "Siglent",
+              "sku": "SDM3045X",
+              "spec": "True RMS bench top digital multimeter 4.5 Digit",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "dc-power-supply",
+          "name": "DC Power Supply",
+          "products": [
+            {
+              "id": "tm-047",
+              "name": "MTQ 32051 - Linear 0-32V/5A/150W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",
+              "brand": "MetroQ",
+              "sku": "OTP 10mV",
+              "spec": "Linear 0-32V/5A/150W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-048",
+              "name": "MTQ 32103 - Linear 0-32V/10A/300W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",
+              "brand": "MetroQ",
+              "sku": "OTP 10mV",
+              "spec": "Linear 0-32V/10A/300W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-049",
+              "name": "MTQ 64013 - Linear 0-64V/10A/300W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",
+              "brand": "MetroQ",
+              "sku": "OTP 10mV",
+              "spec": "Linear 0-64V/10A/300W 3Line*4Digit LED OVP/OCP/OTP 10mV/1mA Resolution",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-050",
+              "name": "ODP 8354 - Programmable DC 4in Coloured LCD 3 Ch 2*0-30V/3A 1*0-6V/3A USB+Software",
+              "brand": "OWON",
+              "sku": "ODP 8354",
+              "spec": "Programmable DC 4in Coloured LCD 3 Ch 2*0-30V/3A 1*0-6V/3A USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-051",
+              "name": "P 4305 - Programmable DC 3.7in Coloured LCD 0-30V/5A 150W USB+RS232+Software",
+              "brand": "OWON",
+              "sku": "P 4305",
+              "spec": "Programmable DC 3.7in Coloured LCD 0-30V/5A 150W USB+RS232+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-052",
+              "name": "P 4603 - Programmable DC 3.7in Coloured LCD 0-60V/3A 180W USB+RS232+Software",
+              "brand": "OWON",
+              "sku": "P 4603",
+              "spec": "Programmable DC 3.7in Coloured LCD 0-60V/3A 180W USB+RS232+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-053",
+              "name": "SPE 3102 - SMPS Programmable DC 2.8in LCD 0-30V/10A Max 200W USB+Software",
+              "brand": "OWON",
+              "sku": "SPE 3102",
+              "spec": "SMPS Programmable DC 2.8in LCD 0-30V/10A Max 200W USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-054",
+              "name": "SPE 6103 - SMPS Programmable DC 2.8in LCD 0-60V/10A Max 300W USB+Software",
+              "brand": "OWON",
+              "sku": "SPE 6103",
+              "spec": "SMPS Programmable DC 2.8in LCD 0-60V/10A Max 300W USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-055",
+              "name": "SPE 15054 - SMPS Programmable DC 2.8in LCD 0-150V/5A Max 400W USB+Software",
+              "brand": "OWON",
+              "sku": "Max 400W",
+              "spec": "SMPS Programmable DC 2.8in LCD 0-150V/5A Max 400W USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-056",
+              "name": "SPM 8205 - SMPS Programmable DC + 4.5Dgt DMM 2.8in LCD 0-80V/20A 500W USB+Software",
+              "brand": "OWON",
+              "sku": "SPM 8205",
+              "spec": "SMPS Programmable DC + 4.5Dgt DMM 2.8in LCD 0-80V/20A 500W USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-057",
+              "name": "OWH Series - High Wattage/Amp 1/2/3/6/8KW options Rackable MultiSeries with USB+Software",
+              "brand": "OWON",
+              "sku": "OWH",
+              "spec": "High Wattage/Amp 1/2/3/6/8KW options Rackable MultiSeries with USB+Software",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-082",
+              "name": "MTQ 3002 - Digital Display 30V DC/2 Amp/60W",
+              "brand": "MetroQ",
+              "sku": "MTQ 3002",
+              "spec": "Digital Display 30V DC/2 Amp/60W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-083",
+              "name": "MTQ 3002D - Digital Display 30V DC/2 Amp (Dual)/60W+60W",
+              "brand": "MetroQ",
+              "sku": "MTQ 3002D",
+              "spec": "Digital Display 30V DC/2 Amp (Dual)/60W+60W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-084",
+              "name": "MTQ 3005 - Digital Display 30V DC/5 Amp/150W",
+              "brand": "MetroQ",
+              "sku": "MTQ 3005",
+              "spec": "Digital Display 30V DC/5 Amp/150W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-085",
+              "name": "MTQ 3010 - Digital Display 30V DC/10 Amp/300W",
+              "brand": "MetroQ",
+              "sku": "MTQ 3010",
+              "spec": "Digital Display 30V DC/10 Amp/300W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-086",
+              "name": "MTQ 6002 - Digital Display 60V DC/2 Amp/120W",
+              "brand": "MetroQ",
+              "sku": "MTQ 6002",
+              "spec": "Digital Display 60V DC/2 Amp/120W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-087",
+              "name": "MTQ 6005 - Digital Display 60V DC/5 Amp/300W",
+              "brand": "MetroQ",
+              "sku": "MTQ 6005",
+              "spec": "Digital Display 60V DC/5 Amp/300W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-088",
+              "name": "MTQ 6010 - Digital Display 60V DC/10 Amp/600W",
+              "brand": "MetroQ",
+              "sku": "MTQ 6010",
+              "spec": "Digital Display 60V DC/10 Amp/600W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-109",
+              "name": "SPS5045X - Triple output switch mode power supply 0-40V/30A/360W x3",
+              "brand": "Siglent",
+              "sku": "SPS5045X",
+              "spec": "Triple output switch mode power supply 0-40V/30A/360W x3",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-110",
+              "name": "SPS5082X - Single channel switch mode power supply 0-80V/30A/720W",
+              "brand": "Siglent",
+              "sku": "SPS5082X",
+              "spec": "Single channel switch mode power supply 0-80V/30A/720W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-111",
+              "name": "SPS5043X - Single channel switch mode power supply 0-40V/90A/1080W",
+              "brand": "Siglent",
+              "sku": "SPS5043X",
+              "spec": "Single channel switch mode power supply 0-40V/90A/1080W",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-112",
+              "name": "SPD3303X - Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",
+              "brand": "Siglent",
+              "sku": "SPD3303X",
+              "spec": "Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-113",
+              "name": "SPD3303X-E - Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",
+              "brand": "Siglent",
+              "sku": "SPD3303X-E",
+              "spec": "Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-114",
+              "name": "SPD3303C - Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",
+              "brand": "Siglent",
+              "sku": "SPD3303C",
+              "spec": "Triple output programmable DC power supply 2x0-30V/0-3.2A 1x2.5V/3.3V/5V at 3.2A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-115",
+              "name": "SPD1305X - Single output programmable DC power supply 0-30V/0-5A",
+              "brand": "Siglent",
+              "sku": "SPD1305X",
+              "spec": "Single output programmable DC power supply 0-30V/0-5A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-116",
+              "name": "SPD1168X - Single output programmable DC power supply 0-16V/0-8A",
+              "brand": "Siglent",
+              "sku": "SPD1168X",
+              "spec": "Single output programmable DC power supply 0-16V/0-8A",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "insulation-tester",
+          "name": "Insulation Tester",
+          "products": [
+            {
+              "id": "tm-071",
+              "name": "MTQ 9010 - Digital Insulation/Megger 250/500/1000 V 40 G-Ohm with DMM",
+              "brand": "MetroQ",
+              "sku": "V 40",
+              "spec": "Digital Insulation/Megger 250/500/1000 V 40 G-Ohm with DMM",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-072",
+              "name": "MTQ 9025 - Digital Insulation/Megger 500/1000/2500 V 40G-Ohm with DMM",
+              "brand": "MetroQ",
+              "sku": "MTQ 9025",
+              "spec": "Digital Insulation/Megger 500/1000/2500 V 40G-Ohm with DMM",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-073",
+              "name": "MTQ 9500 - Digital Insulation/Megger 500/1000/2500/5000 V 200 G-Ohm (220VAC Option)",
+              "brand": "MetroQ",
+              "sku": "V 200",
+              "spec": "Digital Insulation/Megger 500/1000/2500/5000 V 200 G-Ohm (220VAC Option)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-074",
+              "name": "MTQ 9005 - Digital Insulation/Megger 50/100/250/500/1000V 2000 KOhm with DMM",
+              "brand": "MetroQ",
+              "sku": "MTQ 9005",
+              "spec": "Digital Insulation/Megger 50/100/250/500/1000V 2000 KOhm with DMM",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-075",
+              "name": "MTQ 9015 - Digital Insulation/Megger 50/100/250/500/1000V 20 G-Ohm PI/DAR with DMM",
+              "brand": "MetroQ",
+              "sku": "MTQ 9015",
+              "spec": "Digital Insulation/Megger 50/100/250/500/1000V 20 G-Ohm PI/DAR with DMM",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-076",
+              "name": "MTQ 9035 - Digital Insulation/Megger 100/250/500/1000/2500V 50 G-Ohm PI/DAR with DMM",
+              "brand": "MetroQ",
+              "sku": "MTQ 9035",
+              "spec": "Digital Insulation/Megger 100/250/500/1000/2500V 50 G-Ohm PI/DAR with DMM",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "environmental-testing",
+          "name": "Environmental Testing",
+          "products": [
+            {
+              "id": "tm-077",
+              "name": "MTQ 8044 - Wood Moisture 4 Pin Up to 40%",
+              "brand": "MetroQ",
+              "sku": "to 40",
+              "spec": "Wood Moisture 4 Pin Up to 40%",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-078",
+              "name": "MTQ 8055+ - Sound Level 30-130dB Colour LCD A/C/Z Data Logger USB",
+              "brand": "MetroQ",
+              "sku": "MTQ 8055",
+              "spec": "Sound Level 30-130dB Colour LCD A/C/Z Data Logger USB",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-079",
+              "name": "MTQ 8011+ - Anemo Meter Air Velocity/Flow/Temperature Colour LCD Data Logger USB",
+              "brand": "MetroQ",
+              "sku": "MTQ 8011",
+              "spec": "Anemo Meter Air Velocity/Flow/Temperature Colour LCD Data Logger USB",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-081",
+              "name": "MTQ 1010D - Lux Meter Digital Autorange 0.1 to 2,00,000 Lux",
+              "brand": "MetroQ",
+              "sku": "MTQ 1010D",
+              "spec": "Lux Meter Digital Autorange 0.1 to 2,00,000 Lux",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-089",
+              "name": "MTQ 580TDH - Infrared Dual Laser -50C to 550C D/S 12:1 Emis 0.1-1.0 K Type Humidity/Temp",
+              "brand": "MetroQ",
+              "sku": "S 12",
+              "spec": "Infrared Dual Laser -50C to 550C D/S 12:1 Emis 0.1-1.0 K Type Humidity/Temp",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-090",
+              "name": "MTQ X550 - Infrared NonContact Small -50C To 550C D/S 12:1 Variable Emissivity 0.1-1.0",
+              "brand": "MetroQ",
+              "sku": "X550",
+              "spec": "Infrared NonContact Small -50C To 550C D/S 12:1 Variable Emissivity 0.1-1.0",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-091",
+              "name": "MTQ X550CLR - Infrared NonContact Colour LCD -50C To 550C D/S 12:1 Variable Emissivity 0.1-1.0",
+              "brand": "MetroQ",
+              "sku": "S 12",
+              "spec": "Infrared NonContact Colour LCD -50C To 550C D/S 12:1 Variable Emissivity 0.1-1.0",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-092",
+              "name": "MTQ 1500IR - Infrared NonContact Dual Laser -50C To 1500C D/S 30:1 Variable Emissivity",
+              "brand": "MetroQ",
+              "sku": "S 30",
+              "spec": "Infrared NonContact Dual Laser -50C To 1500C D/S 30:1 Variable Emissivity",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-093",
+              "name": "MTQ HTC 1 - Temperature -50C to +70C Humidity Clock (Large Display)",
+              "brand": "MetroQ",
+              "sku": "MTQ",
+              "spec": "Temperature -50C to +70C Humidity Clock (Large Display)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-094",
+              "name": "MTQ 9269 - Multistem with External Metal Probe Temperature -50C to +300C",
+              "brand": "MetroQ",
+              "sku": "MTQ 9269",
+              "spec": "Multistem with External Metal Probe Temperature -50C to +300C",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-128",
+              "name": "Testo 511 - Absolute/barometric pressure and altitude meter 300-1200 hPa 0.1 hPa resolution",
+              "brand": "Testo",
+              "sku": "Testo 511",
+              "spec": "Absolute/barometric pressure and altitude meter 300-1200 hPa 0.1 hPa resolution",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-129",
+              "name": "Testo 540 - Lux meter 0-99,999 lux",
+              "brand": "Testo",
+              "sku": "Testo 540",
+              "spec": "Lux meter 0-99,999 lux",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-130",
+              "name": "Testo 610 - Air humidity and temperature meter with dew point and wet bulb",
+              "brand": "Testo",
+              "sku": "Testo 610",
+              "spec": "Air humidity and temperature meter with dew point and wet bulb",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-131",
+              "name": "Testo 810 - Air and infrared surface thermometer -30 to 300C",
+              "brand": "Testo",
+              "sku": "to 300C",
+              "spec": "Air and infrared surface thermometer -30 to 300C",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-132",
+              "name": "Testo 410-1 - Vane anemometer with temperature measurement",
+              "brand": "Testo",
+              "sku": "Testo 410-1",
+              "spec": "Vane anemometer with temperature measurement",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-133",
+              "name": "Testo 410-2 - Vane anemometer with temperature and humidity measurement",
+              "brand": "Testo",
+              "sku": "Testo 410-2",
+              "spec": "Vane anemometer with temperature and humidity measurement",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-134",
+              "name": "Testo 606-1 - Material moisture meter",
+              "brand": "Testo",
+              "sku": "Testo 606-1",
+              "spec": "Material moisture meter",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-135",
+              "name": "Testo 606-2 - Material moisture air humidity and temperature meter",
+              "brand": "Testo",
+              "sku": "Testo 606-2",
+              "spec": "Material moisture air humidity and temperature meter",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-136",
+              "name": "Testo 405-V1 - Thermal anemometer with temperature measurement",
+              "brand": "Testo",
+              "sku": "Testo 405-V1",
+              "spec": "Thermal anemometer with temperature measurement",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-137",
+              "name": "Testo 605-H1 - Humidity measurement stick",
+              "brand": "Testo",
+              "sku": "Testo 605-H1",
+              "spec": "Humidity measurement stick",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-138",
+              "name": "Testo 510 - Differential pressure meter 10-100 hPa",
+              "brand": "Testo",
+              "sku": "Testo 510",
+              "spec": "Differential pressure meter 10-100 hPa",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-139",
+              "name": "Testo 830 T1 - Non-contact infrared temperature meter -30 to 400C",
+              "brand": "Testo",
+              "sku": "to 400C",
+              "spec": "Non-contact infrared temperature meter -30 to 400C",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-140",
+              "name": "Testo 608-H1 - Thermohygrometer",
+              "brand": "Testo",
+              "sku": "Testo 608-H1",
+              "spec": "Thermohygrometer",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-141",
+              "name": "Testo 608-H2 - Thermohygrometer with LED alarm",
+              "brand": "Testo",
+              "sku": "Testo 608-H2",
+              "spec": "Thermohygrometer with LED alarm",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-142",
+              "name": "Testo 625 - Portable hygrometer",
+              "brand": "Testo",
+              "sku": "Testo 625",
+              "spec": "Portable hygrometer",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-143",
+              "name": "Testo 925 - 1-channel temperature measuring instrument",
+              "brand": "Testo",
+              "sku": "Testo 925",
+              "spec": "1-channel temperature measuring instrument",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-144",
+              "name": "Testo 922 - Differential temperature measuring instrument",
+              "brand": "Testo",
+              "sku": "Testo 922",
+              "spec": "Differential temperature measuring instrument",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-145",
+              "name": "testo 405i - Smart thermal anemometer",
+              "brand": "Testo",
+              "sku": "testo 405i",
+              "spec": "Smart thermal anemometer",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-146",
+              "name": "testo 410i - Smart vane anemometer",
+              "brand": "Testo",
+              "sku": "testo 410i",
+              "spec": "Smart vane anemometer",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-147",
+              "name": "testo 510i - Smart differential pressure meter",
+              "brand": "Testo",
+              "sku": "testo 510i",
+              "spec": "Smart differential pressure meter",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-148",
+              "name": "testo 549i - Smart high-pressure meter",
+              "brand": "Testo",
+              "sku": "testo 549i",
+              "spec": "Smart high-pressure meter",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-149",
+              "name": "testo 605i - Smart thermohygrometer",
+              "brand": "Testo",
+              "sku": "testo 605i",
+              "spec": "Smart thermohygrometer",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-150",
+              "name": "testo 805i - Smart infrared thermometer",
+              "brand": "Testo",
+              "sku": "testo 805i",
+              "spec": "Smart infrared thermometer",
+              "price": null,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": "thermal-imager",
+          "name": "Thermal Imager",
+          "products": [
+            {
+              "id": "tm-151",
+              "name": "Testo 860i - Thermal imager",
+              "brand": "Testo",
+              "sku": "Testo 860i",
+              "spec": "Thermal imager",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-152",
+              "name": "UT-Z002 Macro Lens",
+              "brand": "UNI-T",
+              "sku": "Z002",
+              "spec": "UT-Z002 Macro Lens",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-153",
+              "name": "UTi260B Thermal Imager with Macro Lens Combo",
+              "brand": "UNI-T",
+              "sku": "UTi260B",
+              "spec": "UTi260B Thermal Imager with Macro Lens Combo",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-154",
+              "name": "UTi260B Thermal Imager",
+              "brand": "UNI-T",
+              "sku": "UTi260B",
+              "spec": "UTi260B Thermal Imager",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-155",
+              "name": "RT-915B LED Screen Jumbo Display Temp + RH Meter",
+              "brand": "R-tek",
+              "sku": "RT-915B",
+              "spec": "RT-915B LED Screen Jumbo Display Temp + RH Meter",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-156",
+              "name": "Digital Thermo Hygrometers - RT-108",
+              "brand": "R-tek",
+              "sku": "RT-108",
+              "spec": "RT-108",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-157",
+              "name": "HTC-1 Digital ThermoHygrometer",
+              "brand": "R-tek",
+              "sku": "HTC-1",
+              "spec": "HTC-1 Digital ThermoHygrometer",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-158",
+              "name": "UTi32 High-Temp Thermal Imager",
+              "brand": "UNI-T",
+              "sku": "UTi32",
+              "spec": "UTi32 High-Temp Thermal Imager",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-159",
+              "name": "VT-100 Thermal Imaging Camera",
+              "brand": "HTC Instruments",
+              "sku": "VT-100",
+              "spec": "VT-100 Thermal Imaging Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-160",
+              "name": "Micro Lens UT-Z003",
+              "brand": "UNI-T",
+              "sku": "Z003",
+              "spec": "Micro Lens UT-Z003",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-161",
+              "name": "VT-108 Thermal Imager PrimeX Series",
+              "brand": "HTC Instruments",
+              "sku": "VT-108",
+              "spec": "VT-108 Thermal Imager PrimeX Series",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-162",
+              "name": "UTi716S Thermal Camera",
+              "brand": "UNI-T",
+              "sku": "UTi716S",
+              "spec": "UTi716S Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-163",
+              "name": "VT-120 Thermal Imager",
+              "brand": "HTC Instruments",
+              "sku": "VT-120",
+              "spec": "VT-120 Thermal Imager",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-164",
+              "name": "TG267 Thermal Camera",
+              "brand": "FLIR",
+              "sku": "TG267",
+              "spec": "TG267 Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-165",
+              "name": "TG165-X Thermal Camera",
+              "brand": "FLIR",
+              "sku": "TG165-X",
+              "spec": "TG165-X Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-166",
+              "name": "One Edge Pro Thermal Camera",
+              "brand": "FLIR",
+              "sku": "One",
+              "spec": "One Edge Pro Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-167",
+              "name": "UTi720E Enhanced Thermal Camera",
+              "brand": "UNI-T",
+              "sku": "UTi720E",
+              "spec": "UTi720E Enhanced Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-168",
+              "name": "GTC 400 C Thermal Imager Camera",
+              "brand": "Bosch",
+              "sku": "GTC 400",
+              "spec": "GTC 400 C Thermal Imager Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-169",
+              "name": "UTi720B Thermal Imager with Macro Lens Comb",
+              "brand": "UNI-T",
+              "sku": "UTi720B",
+              "spec": "UTi720B Thermal Imager with Macro Lens Comb",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-170",
+              "name": "UTi720B Heavy Duty Thermal Camera",
+              "brand": "UNI-T",
+              "sku": "UTi720B",
+              "spec": "UTi720B Heavy Duty Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-171",
+              "name": "UTI730V Enhanced Thermal Camera- Video",
+              "brand": "UNI-T",
+              "sku": "UTI730V",
+              "spec": "UTI730V Enhanced Thermal Camera- Video",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-172",
+              "name": "GTC 600C Thermal Imager",
+              "brand": "Bosch",
+              "sku": "GTC 600C",
+              "spec": "GTC 600C Thermal Imager",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-173",
+              "name": "UTi730E Enhanced Thermal Camera",
+              "brand": "UNI-T",
+              "sku": "UTi730E",
+              "spec": "UTi730E Enhanced Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-174",
+              "name": "UTi120P Pocket-sized Thermal Camera",
+              "brand": "UNI-T",
+              "sku": "UTi120P",
+              "spec": "UTi120P Pocket-sized Thermal Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-175",
+              "name": "UTi120T Pocket-sized Thermal Imaging Camera",
+              "brand": "UNI-T",
+              "sku": "UTi120T",
+              "spec": "UTi120T Pocket-sized Thermal Imaging Camera",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "tm-176",
+              "name": "VT 110 Thermal Imager",
+              "brand": "HTC Instruments",
+              "sku": "VT 110",
+              "spec": "VT 110 Thermal Imager",
+              "price": null,
+              "image": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "precision-measuring",
+      "name": "Precision Measuring",
+      "subcategories": [
+        {
+          "id": "vernier-callipers",
+          "name": "Vernier Callipers",
+          "products": [
+            {
+              "id": "pm-001",
+              "name": "Gear tooth vernier caliper - 1281-M26A",
+              "brand": "Insize",
+              "sku": "M26A",
+              "spec": "1281-M26A",
+              "price": "16400.00",
+              "image": "https://images.toolworld.in/product/1659001384.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11159",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-002",
+              "name": "Digital Hook Caliper - 1122-300 (0-300MM)",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1122-300 (0-300MM)",
+              "price": "21580.00",
+              "image": "https://images.toolworld.in/product/1659000806.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11158",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-003",
+              "name": "Digital Tube Thickness Caliper - 1161-150A",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1161-150A",
+              "price": "9585.00",
+              "image": "https://images.toolworld.in/product/1659000485.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11157",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-004",
+              "name": "Digital Offset Caliper - 1186-150A (0-150MM)",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1186-150A (0-150MM)",
+              "price": "13340.00",
+              "image": "https://images.toolworld.in/product/1658997970.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11156",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-005",
+              "name": "Digital Offset Centerline caliper - 1192-500A (20-500MM)",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1192-500A (20-500MM)",
+              "price": "47030.00",
+              "image": "https://images.toolworld.in/product/1658997362.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11154&pn=Digital+Offset+Centerline+caliper+-+1192-500A+%2820-500MM%29",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-006",
+              "name": "Digital Offset Centerline caliper - 1192-300A (10-300MM)",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1192-300A (10-300MM)",
+              "price": "22540.00",
+              "image": "https://images.toolworld.in/product/1658997196.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11153&pn=Digital+Offset+Centerline+caliper+-+1192-300A+%2810-300MM%29",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-007",
+              "name": "Digital Offset Centerline caliper - 1192-150A (10-150MM)",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1192-150A (10-150MM)",
+              "price": "15800.00",
+              "image": "https://images.toolworld.in/product/1658996979.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11152",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-008",
+              "name": "600 mm Vernier Caliper 1214-600",
+              "brand": "Insize",
+              "sku": "600",
+              "spec": "600 mm Vernier Caliper 1214-600",
+              "price": "11390.00",
+              "image": "https://images.toolworld.in/product/Insize28-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6590",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-009",
+              "name": "Digital Centerline And Edge To Center Caliper - 1525-300 (0-300MM)",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1525-300 (0-300MM)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-010",
+              "name": "Digital Caliper With Interchangeable Points 1530-300",
+              "brand": "Insize",
+              "sku": "Points 1530-300",
+              "spec": "Digital Caliper With Interchangeable Points 1530-300",
+              "price": "27095.00",
+              "image": "https://images.toolworld.in/product/1658995453.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11147&pn=Digital+Caliper+With+Interchangeable+Points++1530-300",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-011",
+              "name": "Depth Base Attachment 6140-16B",
+              "brand": "Insize",
+              "sku": "Depth",
+              "spec": "Depth Base Attachment 6140-16B",
+              "price": "1810.00",
+              "image": "https://images.toolworld.in/product/1658994309.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11144&pn=Depth+Base+Attachment+6140-16B",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-012",
+              "name": "Outside Spring Caliper 7262-300",
+              "brand": "Insize",
+              "sku": "Outside",
+              "spec": "Outside Spring Caliper 7262-300",
+              "price": "1570.00",
+              "image": "https://images.toolworld.in/product/Insize331-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=7618",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-013",
+              "name": "300 mm Dial Caliper 1312-300A",
+              "brand": "Insize",
+              "sku": "300",
+              "spec": "300 mm Dial Caliper 1312-300A",
+              "price": "6750.00",
+              "image": "https://images.toolworld.in/product/Insize34-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6596&pn=300+mm+Dial+Caliper+1312-300A",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-014",
+              "name": "Inside Spring Caliper 7261-300",
+              "brand": "Insize",
+              "sku": "Inside",
+              "spec": "Inside Spring Caliper 7261-300",
+              "price": "1465.00",
+              "image": "https://images.toolworld.in/product/Insize327-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=7614&pn=Inside+Spring+Caliper+7261-300",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-015",
+              "name": "Electronic Caliper 1526-200",
+              "brand": "Insize",
+              "sku": "Electronic",
+              "spec": "Electronic Caliper 1526-200",
+              "price": "17250.00",
+              "image": "https://images.toolworld.in/product/Insize35-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6597",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-016",
+              "name": "200 mm Dial Caliper 1312-200A",
+              "brand": "Insize",
+              "sku": "200",
+              "spec": "200 mm Dial Caliper 1312-200A",
+              "price": "4410.00",
+              "image": "https://images.toolworld.in/product/Insize33-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6595&pn=200+mm+Dial+Caliper+1312-200A",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-017",
+              "name": "1000 mm Vernier Caliper 1214-1000",
+              "brand": "Insize",
+              "sku": "1000",
+              "spec": "1000 mm Vernier Caliper 1214-1000",
+              "price": "32450.00",
+              "image": "https://images.toolworld.in/product/Insize27-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6589&pn=1000+mm+Vernier+Caliper+1214-1000",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-018",
+              "name": "300 mm Vernier Caliper 1205-3002S",
+              "brand": "Insize",
+              "sku": "300",
+              "spec": "300 mm Vernier Caliper 1205-3002S",
+              "price": "5850.00",
+              "image": "https://images.toolworld.in/product/1630351927.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6588",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-019",
+              "name": "Depth Base Attachment For 150 And 200 mm Vernier Caliper 6140",
+              "brand": "Insize",
+              "sku": "For 150",
+              "spec": "Depth Base Attachment For 150 And 200 mm Vernier Caliper 6140",
+              "price": "970",
+              "image": "https://images.toolworld.in/product/Insize169-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6758",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-020",
+              "name": "Inside Spring Caliper 7261-200",
+              "brand": "Insize",
+              "sku": "Inside",
+              "spec": "Inside Spring Caliper 7261-200",
+              "price": "970",
+              "image": "https://images.toolworld.in/product/Insize326-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=7613",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-021",
+              "name": "Accessory set for Digital Calipers 6144",
+              "brand": "Insize",
+              "sku": "Accessory",
+              "spec": "Accessory set for Digital Calipers 6144",
+              "price": "3800",
+              "image": "https://images.toolworld.in/product/Insize321-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=7608",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-022",
+              "name": "Electronic Inside Groove Caliper 1176-150",
+              "brand": "Insize",
+              "sku": "Electronic",
+              "spec": "Electronic Inside Groove Caliper 1176-150",
+              "price": "13899",
+              "image": "https://images.toolworld.in/product/Insize23-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6585",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-023",
+              "name": "150 mm Dial Caliper 1312-150A",
+              "brand": "Insize",
+              "sku": "150",
+              "spec": "150 mm Dial Caliper 1312-150A",
+              "price": "3310",
+              "image": "https://images.toolworld.in/product/1630352199.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6594",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-024",
+              "name": "200 mm Vernier Caliper 1205-2002S",
+              "brand": "Insize",
+              "sku": "200",
+              "spec": "200 mm Vernier Caliper 1205-2002S",
+              "price": "3200",
+              "image": "https://images.toolworld.in/product/1630351867.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6587",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-025",
+              "name": "150 mm Vernier Caliper 1205-1502S",
+              "brand": "Insize",
+              "sku": "150",
+              "spec": "150 mm Vernier Caliper 1205-1502S",
+              "price": "2070",
+              "image": "https://images.toolworld.in/product/1630351899.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6586",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-026",
+              "name": "200 mm Digital Caliper 1108-200",
+              "brand": "Insize",
+              "sku": "200",
+              "spec": "200 mm Digital Caliper 1108-200",
+              "price": "3820.00",
+              "image": "https://images.toolworld.in/product/Insize05-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6567",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-027",
+              "name": "1183-150A Digital Point Caliper",
+              "brand": "Insize",
+              "sku": "1183-150A",
+              "spec": "1183-150A Digital Point Caliper",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-028",
+              "name": "Digital Outside Neck Caliper - 1187-150A",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1187-150A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-029",
+              "name": "Digital Caliper with Interchangeable points 1124-300A",
+              "brand": "Insize",
+              "sku": "points 1124-300A",
+              "spec": "Digital Caliper with Interchangeable points 1124-300A",
+              "price": "25650",
+              "image": "https://images.toolworld.in/product/1658995226.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11146",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-030",
+              "name": "1119-150 Digital Caliper with Round Depth Bar",
+              "brand": "Insize",
+              "sku": "1119-150",
+              "spec": "1119-150 Digital Caliper with Round Depth Bar",
+              "price": "3200",
+              "image": "https://images.toolworld.in/product/1658923082.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11141",
+              "source_site": "toolworld.in"
+            }
+          ]
+        },
+        {
+          "id": "micrometer",
+          "name": "Micrometer",
+          "products": [
+            {
+              "id": "pm-031",
+              "name": "0-25 mm Tube Type Outside Micrometer 3260-25SA",
+              "brand": "Insize",
+              "sku": "0-25",
+              "spec": "0-25 mm Tube Type Outside Micrometer 3260-25SA",
+              "price": "2950",
+              "image": "https://images.toolworld.in/product/Insize117-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6690",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-032",
+              "name": "75-88 mm Internal Micrometer 3227-88",
+              "brand": "Insize",
+              "sku": "75-88",
+              "spec": "75-88 mm Internal Micrometer 3227-88",
+              "price": "32950.00",
+              "image": "https://images.toolworld.in/product/Insize113-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/index.php/product.php?pid=6686&pn=75-88+mm+Internal+Micrometer+3227-88",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-033",
+              "name": "6-8 mm Internal Micrometer 3227-8",
+              "brand": "Insize",
+              "sku": "6-8",
+              "spec": "6-8 mm Internal Micrometer 3227-8",
+              "price": "20450.00",
+              "image": "https://images.toolworld.in/product/Insize112-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6685&pn=6-8+mm+Internal+Micrometer+3227-8",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-034",
+              "name": "62-75 mm Internal Micrometer 3227-75",
+              "brand": "Insize",
+              "sku": "62-75",
+              "spec": "62-75 mm Internal Micrometer 3227-75",
+              "price": "31530.00",
+              "image": "https://images.toolworld.in/product/Insize111-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6684&pn=62-75+mm+Internal+Micrometer+3227-75",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-035",
+              "name": "50-63 mm Internal Micrometer 3227-63",
+              "brand": "Insize",
+              "sku": "50-63",
+              "spec": "50-63 mm Internal Micrometer 3227-63",
+              "price": "29400.00",
+              "image": "https://images.toolworld.in/product/Insize110-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6683&pn=50-63+mm+Internal+Micrometer+3227-63",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-036",
+              "name": "20-50 mm Internal Micrometer set 3227-504",
+              "brand": "Insize",
+              "sku": "set 3227-504",
+              "spec": "20-50 mm Internal Micrometer set 3227-504",
+              "price": "80570.00",
+              "image": "https://images.toolworld.in/product/Insize109-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6682",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-037",
+              "name": "40-50 mm Internal Micrometer 3227-50",
+              "brand": "Insize",
+              "sku": "40-50",
+              "spec": "40-50 mm Internal Micrometer 3227-50",
+              "price": "27150.00",
+              "image": "https://images.toolworld.in/product/Insize108-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6681",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-038",
+              "name": "30-40 mm Internal Micrometer 3227-40",
+              "brand": "Insize",
+              "sku": "30-40",
+              "spec": "30-40 mm Internal Micrometer 3227-40",
+              "price": "23390.00",
+              "image": "https://images.toolworld.in/product/Insize107-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6680",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-039",
+              "name": "12-20 mm Internal Micrometer set 3227-202",
+              "brand": "Insize",
+              "sku": "set 3227-202",
+              "spec": "12-20 mm Internal Micrometer set 3227-202",
+              "price": "28740",
+              "image": "https://images.toolworld.in/product/Insize104-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6677",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-040",
+              "name": "16-20 mm Internal Micrometer 3227-20",
+              "brand": "Insize",
+              "sku": "16-20",
+              "spec": "16-20 mm Internal Micrometer 3227-20",
+              "price": "15160.00",
+              "image": "https://images.toolworld.in/product/Insize103-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6676",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-041",
+              "name": "12-16 mm Internal Micrometer 3227-16",
+              "brand": "Insize",
+              "sku": "12-16",
+              "spec": "12-16 mm Internal Micrometer 3227-16",
+              "price": "15160",
+              "image": "https://images.toolworld.in/product/Insize102-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6675",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-042",
+              "name": "10-12 mm Internal Micrometer 3227-12",
+              "brand": "Insize",
+              "sku": "10-12",
+              "spec": "10-12 mm Internal Micrometer 3227-12",
+              "price": "20450.00",
+              "image": "https://images.toolworld.in/product/Insize100-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6660",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-043",
+              "name": "3227-1004 Internal Micrometer set 50-100 mm",
+              "brand": "Insize",
+              "sku": "set 50-100",
+              "spec": "3227-1004 Internal Micrometer set 50-100 mm",
+              "price": "105780.00",
+              "image": "https://images.toolworld.in/product/Insize99-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6659",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-044",
+              "name": "87-100 mm Internal Micrometer 3227-100",
+              "brand": "Insize",
+              "sku": "87-100",
+              "spec": "87-100 mm Internal Micrometer 3227-100",
+              "price": "34270",
+              "image": "https://images.toolworld.in/product/Insize98-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6658",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-045",
+              "name": "8-10 mm Internal Micrometer 3227-10",
+              "brand": "Insize",
+              "sku": "8-10",
+              "spec": "8-10 mm Internal Micrometer 3227-10",
+              "price": "20450",
+              "image": "https://images.toolworld.in/product/Insize97-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6657",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-046",
+              "name": "50-300 mm Tubular Inside Micrometer 3222-300",
+              "brand": "Insize",
+              "sku": "50-300",
+              "spec": "50-300 mm Tubular Inside Micrometer 3222-300",
+              "price": "10300",
+              "image": "https://images.toolworld.in/product/Insize96-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6656",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-047",
+              "name": "6-12 mm Internal Micrometer set 3227-123",
+              "brand": "Insize",
+              "sku": "set 3227-123",
+              "spec": "6-12 mm Internal Micrometer set 3227-123",
+              "price": "56670",
+              "image": "https://images.toolworld.in/product/Insize101-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6661",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-048",
+              "name": "5-30 mm Inside Micrometer 3220-30",
+              "brand": "Insize",
+              "sku": "5-30",
+              "spec": "5-30 mm Inside Micrometer 3220-30",
+              "price": "5440",
+              "image": "https://images.toolworld.in/product/Insize95-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6655",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-049",
+              "name": "25-30 mm Internal Micrometer 3227-30",
+              "brand": "Insize",
+              "sku": "25-30",
+              "spec": "25-30 mm Internal Micrometer 3227-30",
+              "price": "21310",
+              "image": "https://images.toolworld.in/product/Insize106-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product/25-30-mm-internal-micrometer-3227-30",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-050",
+              "name": "20-25 mm Internal Micrometer 3227-25",
+              "brand": "Insize",
+              "sku": "20-25",
+              "spec": "20-25 mm Internal Micrometer 3227-25",
+              "price": "21310",
+              "image": "https://images.toolworld.in/product/Insize105-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6678",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-051",
+              "name": "0-100 mm Micrometer Stand 6301",
+              "brand": "Insize",
+              "sku": "Stand 6301",
+              "spec": "0-100 mm Micrometer Stand 6301",
+              "price": "1190",
+              "image": "https://images.toolworld.in/product/Insize178-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6765",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-052",
+              "name": "Inside Micrometer (Economic Type) - 3220-100 (75-100MM)",
+              "brand": "Insize",
+              "sku": "Inside",
+              "spec": "3220-100 (75-100MM)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-053",
+              "name": "Inside Micrometer (Economic Type) - 3220-75 (50-75MM)",
+              "brand": "Insize",
+              "sku": "Inside",
+              "spec": "3220-75 (50-75MM)",
+              "price": "7180",
+              "image": "https://images.toolworld.in/product/1659090271.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11212",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-054",
+              "name": "Inside Micrometer (Economic Type) - 3220-50 (25-50MM)",
+              "brand": "Insize",
+              "sku": "Inside",
+              "spec": "3220-50 (25-50MM)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-055",
+              "name": "Cylindrical Anvil Tube Micrometers - 3261-25BA (0-25MM)",
+              "brand": "Insize",
+              "sku": "Cylindrical",
+              "spec": "3261-25BA (0-25MM)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-056",
+              "name": "Cylindrical Anvil Tube Micrometers - 3261-25A (0-25MM)",
+              "brand": "Insize",
+              "sku": "Cylindrical",
+              "spec": "3261-25A (0-25MM)",
+              "price": "3990",
+              "image": "https://images.toolworld.in/product/1659089617.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11209",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-057",
+              "name": "Spline Micrometer - 3233-25BA (0-25MM)",
+              "brand": "Insize",
+              "sku": "Spline",
+              "spec": "3233-25BA (0-25MM)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-058",
+              "name": "Disk Micrometer (Economic Type) - 3282-100 (75-100MM)",
+              "brand": "Insize",
+              "sku": "Disk",
+              "spec": "3282-100 (75-100MM)",
+              "price": "8850",
+              "image": "https://images.toolworld.in/product/1659089127.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/index.php/product.php?pid=11207",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-059",
+              "name": "Disk Micrometer (Economic Type) - 3282-75 (50-75MM)",
+              "brand": "Insize",
+              "sku": "Disk",
+              "spec": "3282-75 (50-75MM)",
+              "price": "7480",
+              "image": "https://images.toolworld.in/product/1659088993.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11206",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-060",
+              "name": "Disk Micrometer (Economic Type) - 3282-50 (25-50MM)",
+              "brand": "Insize",
+              "sku": "Disk",
+              "spec": "3282-50 (25-50MM)",
+              "price": "7590",
+              "image": "https://images.toolworld.in/product/1659088888.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/index.php/product.php?pid=11205",
+              "source_site": "toolworld.in"
+            }
+          ]
+        },
+        {
+          "id": "depth-gauge",
+          "name": "Depth Gauge",
+          "products": [
+            {
+              "id": "pm-061",
+              "name": "Vernier Depth Gauge (Small Range) - 1244-30 (0-30MM)",
+              "brand": "Insize",
+              "sku": "Vernier",
+              "spec": "1244-30 (0-30MM)",
+              "price": "1150",
+              "image": "https://images.toolworld.in/product/1659003371.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product/vernier-depth-gauge-(small-range)---1244-30-(0-30mm)",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-062",
+              "name": "Mini Digital Depth Gauge With Round Bar - 1140-25 (0-25MM)",
+              "brand": "Insize",
+              "sku": "Mini",
+              "spec": "1140-25 (0-25MM)",
+              "price": "5500",
+              "image": "https://images.toolworld.in/product/1659003110.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11166",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-063",
+              "name": "Dial depth gauge - 1340-300 (0-300MM)",
+              "brand": "Insize",
+              "sku": "Dial",
+              "spec": "1340-300 (0-300MM)",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-064",
+              "name": "Dial depth gauge - 1340-200 (0-200MM)",
+              "brand": "Insize",
+              "sku": "Dial",
+              "spec": "1340-200 (0-200MM)",
+              "price": "4130",
+              "image": "https://images.toolworld.in/product/1659002642.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product/dial-depth-gauge---1340-200-(0-200mm)",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-065",
+              "name": "Dial depth gauge - 1340-150 (0-150MM)",
+              "brand": "Insize",
+              "sku": "Dial",
+              "spec": "1340-150 (0-150MM)",
+              "price": "3780",
+              "image": "https://images.toolworld.in/product/1659002534.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11163",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-066",
+              "name": "Digital Double Hook Depth Gauge - 1144-150A (0-150MM)",
+              "brand": "Insize",
+              "sku": "Digital",
+              "spec": "1144-150A (0-150MM)",
+              "price": "6630",
+              "image": "https://images.toolworld.in/product/1659001716.png",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=11160",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-067",
+              "name": "300mm Vernier Depth Gage 1240-3001",
+              "brand": "Insize",
+              "sku": "Gage 1240-3001",
+              "spec": "300mm Vernier Depth Gage 1240-3001",
+              "price": "3505",
+              "image": "https://images.toolworld.in/product/Insize301-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6979",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-068",
+              "name": "200mm Vernier Depth Gauge 1240-2001",
+              "brand": "Insize",
+              "sku": "Gauge 1240-2001",
+              "spec": "200mm Vernier Depth Gauge 1240-2001",
+              "price": "2700",
+              "image": "https://images.toolworld.in/product/Insize300-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6978",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-069",
+              "name": "150mm Vernier Depth Gauge 1240-1501",
+              "brand": "Insize",
+              "sku": "Gauge 1240-1501",
+              "spec": "150mm Vernier Depth Gauge 1240-1501",
+              "price": "3505.00",
+              "image": "https://images.toolworld.in/product/Insize301-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6979",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-070",
+              "name": "10-30mm Internal Dial Caliper Gauge 2222-301",
+              "brand": "Insize",
+              "sku": "Gauge 2222-301",
+              "spec": "10-30mm Internal Dial Caliper Gauge 2222-301",
+              "price": "15175",
+              "image": "https://images.toolworld.in/product/Insize49-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6611",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-071",
+              "name": "5-25mm Internal Dial Caliper Gauge 2222-25",
+              "brand": "Insize",
+              "sku": "Gauge 2222-25",
+              "spec": "5-25mm Internal Dial Caliper Gauge 2222-25",
+              "price": "13740",
+              "image": "https://images.toolworld.in/product/Insize48-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6610",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-072",
+              "name": "5-15 mm Internal Dial Caliper Gauge 2222-15",
+              "brand": "Insize",
+              "sku": "Gauge 2222-15",
+              "spec": "5-15 mm Internal Dial Caliper Gauge 2222-15",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-073",
+              "name": "200 mm Vernier Height Gauge 1253-200",
+              "brand": "Insize",
+              "sku": "Gauge 1253-200",
+              "spec": "200 mm Vernier Height Gauge 1253-200",
+              "price": "10430",
+              "image": "https://images.toolworld.in/product/Insize31-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6593",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-074",
+              "name": "300 mm Digital Depth Gauge Waterproof 1149-300",
+              "brand": "Insize",
+              "sku": "300",
+              "spec": "300 mm Digital Depth Gauge Waterproof 1149-300",
+              "price": "24290",
+              "image": "https://images.toolworld.in/product/Insize18-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6580",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-075",
+              "name": "200 mm Digital Depth Gauge Waterproof 1149-200",
+              "brand": "Insize",
+              "sku": "200",
+              "spec": "200 mm Digital Depth Gauge Waterproof 1149-200",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-076",
+              "name": "1142-200A Digital Hook Depth Gauge",
+              "brand": "Insize",
+              "sku": "1142-200A",
+              "spec": "1142-200A Digital Hook Depth Gauge",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-077",
+              "name": "600 mm Vernier Height Gauge 1250-600",
+              "brand": "Insize",
+              "sku": "Gauge 1250-600",
+              "spec": "600 mm Vernier Height Gauge 1250-600",
+              "price": "22060",
+              "image": "https://images.toolworld.in/product/Insize30-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product/600-mm-vernier-height-gauge-1250-600",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-078",
+              "name": "300 mm Vernier Height Gauge 1250-300",
+              "brand": "Insize",
+              "sku": "Gauge 1250-300",
+              "spec": "300 mm Vernier Height Gauge 1250-300",
+              "price": "14390",
+              "image": "https://images.toolworld.in/product/Insize29-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6591",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-079",
+              "name": "150 mm Digital Depth Gauge 1141-150A",
+              "brand": "Insize",
+              "sku": "Gauge 1141-150A",
+              "spec": "150 mm Digital Depth Gauge 1141-150A",
+              "price": "3790.00",
+              "image": "https://images.toolworld.in/product/Insize11-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6573&pn=150+mm+Digital+Depth+Gauge+1141-150A",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-080",
+              "name": "300 mm Digital Height Gauge With Driving Wheel 1156-300",
+              "brand": "Insize",
+              "sku": "Wheel 1156-300",
+              "spec": "300 mm Digital Height Gauge With Driving Wheel 1156-300",
+              "price": "26460",
+              "image": "https://images.toolworld.in/product/Insize21-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6583",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-081",
+              "name": "300 mm Digital Height Gauge 1150-300",
+              "brand": "Insize",
+              "sku": "Gauge 1150-300",
+              "spec": "300 mm Digital Height Gauge 1150-300",
+              "price": "18330",
+              "image": "https://images.toolworld.in/product/Insize19-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6581",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-082",
+              "name": "150 mm Digital Depth Gauge Waterproof 1149-150",
+              "brand": "Insize",
+              "sku": "150",
+              "spec": "150 mm Digital Depth Gauge Waterproof 1149-150",
+              "price": "13685",
+              "image": "https://images.toolworld.in/product/Insize16-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6578",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-083",
+              "name": "200 mm Digital Depth Gauge 1141-200A",
+              "brand": "Insize",
+              "sku": "Gauge 1141-200A",
+              "spec": "200 mm Digital Depth Gauge 1141-200A",
+              "price": "4599.00",
+              "image": "https://images.toolworld.in/product/Insize12-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6574&pn=200+mm+Digital+Depth+Gauge+1141-200A",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-084",
+              "name": "10 mm Dial Depth Gauge 2341-101A",
+              "brand": "Insize",
+              "sku": "Gauge 2341-101A",
+              "spec": "10 mm Dial Depth Gauge 2341-101A",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-085",
+              "name": "300 mm Digital Depth Gauge 2141-202A",
+              "brand": "Insize",
+              "sku": "Gauge 2141-202A",
+              "spec": "300 mm Digital Depth Gauge 2141-202A",
+              "price": "11460",
+              "image": "https://images.toolworld.in/product/Insize40-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6602",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-086",
+              "name": "150 mm Digital Height Gauge 1154-150",
+              "brand": "Insize",
+              "sku": "Gauge 1154-150",
+              "spec": "150 mm Digital Height Gauge 1154-150",
+              "price": "8220",
+              "image": "https://images.toolworld.in/product/Insize20-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6582",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-087",
+              "name": "1142-150A Digital Hook Depth Gauge",
+              "brand": "Insize",
+              "sku": "1142-150A",
+              "spec": "1142-150A Digital Hook Depth Gauge",
+              "price": null,
+              "image": null
+            },
+            {
+              "id": "pm-088",
+              "name": "300 mm Digital Depth Gauge 1141-300A",
+              "brand": "Insize",
+              "sku": "Gauge 1141-300A",
+              "spec": "300 mm Digital Depth Gauge 1141-300A",
+              "price": "9500",
+              "image": "https://images.toolworld.in/product/Insize13-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6575",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-089",
+              "name": "200 mm Digital Depth Gauge Round Depth Type 1148-200",
+              "brand": "Insize",
+              "sku": "Type 1148-200",
+              "spec": "200 mm Digital Depth Gauge Round Depth Type 1148-200",
+              "price": "18610",
+              "image": "https://images.toolworld.in/product/Insize14-1.jpg",
+              "currency": "INR",
+              "source_url": "https://www.toolworld.in/product.php?pid=6576",
+              "source_site": "toolworld.in"
+            },
+            {
+              "id": "pm-090",
+              "name": "1141-500A Digital Depth Gauge",
+              "brand": "Insize",
+              "sku": "1141-500A",
+              "spec": "1141-500A Digital Depth Gauge",
+              "price": null,
+              "image": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soldering",
+      "name": "Soldering",
+      "subcategories": []
+    },
+    {
+      "id": "healthcare-medical",
+      "name": "Health care and Medical",
+      "subcategories": [
+        {
+          "id": "patient-monitor-and-accessories",
+          "name": "Patient Monitor and Accessories",
+          "products": [
+            {
+              "id": "hm-001",
+              "name": "3 and 7 Para Patient Monitor",
+              "brand": "—",
+              "sku": "—",
+              "spec": "3 and 7 Para Patient Monitor",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/b363d9e436872bf8f743.png",
+              "source_url": "https://alispro.in/products/medical-equipment/patient-monitor-and-accessories/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-002",
+              "name": "5 Para Patient Monitor",
+              "brand": "—",
+              "sku": "—",
+              "spec": "5 Para Patient Monitor",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/fd1f7a6c9211dd6701a2.png",
+              "source_url": "https://alispro.in/products/medical-equipment/patient-monitor-and-accessories/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-003",
+              "name": "3 and 5 Neonatal Probe",
+              "brand": "—",
+              "sku": "—",
+              "spec": "3 and 5 Neonatal Probe",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/11e66964b5594bae3992.png",
+              "source_url": "https://alispro.in/products/medical-equipment/patient-monitor-and-accessories/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "syringe-and-infusion-pump",
+          "name": "Syringe and Infusion Pump",
+          "products": [
+            {
+              "id": "hm-004",
+              "name": "Syringe Pump",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Syringe Pump",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/aedb9e82f275221e08e1.png",
+              "source_url": "https://alispro.in/products/medical-equipment/syringe-and-infusion-pump/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-005",
+              "name": "Infusion Pump",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Infusion Pump",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/7cdf3c6808c5cc6f0baf.png",
+              "source_url": "https://alispro.in/products/medical-equipment/syringe-and-infusion-pump/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "ecg-machines",
+          "name": "ECG Machines",
+          "products": [
+            {
+              "id": "hm-006",
+              "name": "3 Channel ECG Machines",
+              "brand": "—",
+              "sku": "—",
+              "spec": "3 Channel ECG Machines",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/519358965a69a1b57f41.png",
+              "source_url": "https://alispro.in/products/medical-equipment/ecg-machines/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "defibrillator",
+          "name": "Defibrillator",
+          "products": [
+            {
+              "id": "hm-007",
+              "name": "Automated External and Biphasic Defibrillator",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Automated External and Biphasic Defibrillator",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/0cde0def94ccc60ef951.png",
+              "source_url": "https://alispro.in/products/medical-equipment/defibrillator/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-008",
+              "name": "DVT Pump",
+              "brand": "—",
+              "sku": "—",
+              "spec": "DVT Pump",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/57b4f307dc2331cf739f.png",
+              "source_url": "https://alispro.in/products/medical-equipment/defibrillator/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "fetal-monitor-and-bipap-machine",
+          "name": "Fetal Monitor and BiPAP Machine",
+          "products": [
+            {
+              "id": "hm-009",
+              "name": "Fetal Monitor",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Fetal Monitor",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/d170d426c6d4d719b419.png",
+              "source_url": "https://alispro.in/products/medical-equipment/fetal-monitor-and-bipap-machine/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-010",
+              "name": "BiPAP Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "BiPAP Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/c3a39412f0c6f53a9d9f.png",
+              "source_url": "https://alispro.in/products/medical-equipment/fetal-monitor-and-bipap-machine/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "cpap-and-oxygen-concentrator",
+          "name": "CPAP and Oxygen Concentrator",
+          "products": [
+            {
+              "id": "hm-011",
+              "name": "CPAP",
+              "brand": "—",
+              "sku": "—",
+              "spec": "CPAP",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/70daac05932811d9d0c6.png",
+              "source_url": "https://alispro.in/products/medical-equipment/cpap-and-oxygen-concentrator/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-012",
+              "name": "Oxygen Concentrator",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Oxygen Concentrator",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/b6d0c2a6003ec198c253.png",
+              "source_url": "https://alispro.in/products/medical-equipment/cpap-and-oxygen-concentrator/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "suction-machine-and-portable-suction-machine",
+          "name": "Suction Machine and Portable Suction Machine",
+          "products": [
+            {
+              "id": "hm-013",
+              "name": "Suction Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Suction Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/d770bd2c6967ce3276b4.png",
+              "source_url": "https://alispro.in/products/medical-equipment/suction-machine-and-portable-suction-machine/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-014",
+              "name": "Portable Suction Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Portable Suction Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/5a22f9d2ca94eb716027.png",
+              "source_url": "https://alispro.in/products/medical-equipment/suction-machine-and-portable-suction-machine/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "tourniquet-machine-and-bp-machine",
+          "name": "Tourniquet Machine and BP Machine",
+          "products": [
+            {
+              "id": "hm-015",
+              "name": "Tourniquet Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Tourniquet Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/1f5b5a66a301d8304fde.png",
+              "source_url": "https://alispro.in/products/medical-equipment/tourniquet-machine-and-bp-machine/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-016",
+              "name": "BP Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "BP Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/70c75df33bb0d2ae1976.png",
+              "source_url": "https://alispro.in/products/medical-equipment/tourniquet-machine-and-bp-machine/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "spirometer-and-thermometer",
+          "name": "Spirometer and Thermometer",
+          "products": [
+            {
+              "id": "hm-017",
+              "name": "Spirometer",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Spirometer",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/7159a3903f0dec16bbb2.png",
+              "source_url": "https://alispro.in/products/medical-equipment/spirometer-and-thermometer/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-018",
+              "name": "Thermometer",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Thermometer",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e15ab4a350aa392d1454.png",
+              "source_url": "https://alispro.in/products/medical-equipment/spirometer-and-thermometer/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "weighting-machine",
+          "name": "Weighting Machine",
+          "products": [
+            {
+              "id": "hm-019",
+              "name": "Digital Weighting Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Digital Weighting Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/d3aa3dd2623eaed0cf7c.png",
+              "source_url": "https://alispro.in/products/medical-equipment/weighting-machine/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-020",
+              "name": "Analog Weighting Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Analog Weighting Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/3ef9cab7d937813b16ec.png",
+              "source_url": "https://alispro.in/products/medical-equipment/weighting-machine/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "baby-warmer-radiant-warmer",
+          "name": "Baby Warmer / Radiant Warmer",
+          "products": [
+            {
+              "id": "hm-021",
+              "name": "Single Baby Warmer/ Radiant Warmer",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Single Baby Warmer/ Radiant Warmer",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/44087898fb4e70faf810.png",
+              "source_url": "https://alispro.in/products/medical-equipment/baby-warmer-radiant-warmer/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-022",
+              "name": "Double Baby Warmer/ Radiant Warmer",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Double Baby Warmer/ Radiant Warmer",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/74986161aac15e04821a.png",
+              "source_url": "https://alispro.in/products/medical-equipment/baby-warmer-radiant-warmer/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "phototherapy-and-baby-warmer-phototherapy",
+          "name": "Phototherapy and Baby Warmer Phototherapy",
+          "products": [
+            {
+              "id": "hm-023",
+              "name": "Phototherapy",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Phototherapy",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/18684ce79fc181b20a90.png",
+              "source_url": "https://alispro.in/products/medical-equipment/phototherapy-and-baby-warmer-phototherapy/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-024",
+              "name": "Baby Warmer Phototherapy",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Baby Warmer Phototherapy",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/f524d88e08fff5907451.png",
+              "source_url": "https://alispro.in/products/medical-equipment/phototherapy-and-baby-warmer-phototherapy/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "ventilator",
+          "name": "Ventilator",
+          "products": [
+            {
+              "id": "hm-025",
+              "name": "Portable Ventilator",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Portable Ventilator",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/9c88e247d39ef5b76bd7.png",
+              "source_url": "https://alispro.in/products/medical-equipment/ventilator/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-026",
+              "name": "Ventilator",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Ventilator",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/56680211f5ed6a2446be.png",
+              "source_url": "https://alispro.in/products/medical-equipment/ventilator/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "anesthesia-equipment",
+          "name": "Anesthesia Equipment",
+          "products": [
+            {
+              "id": "hm-027",
+              "name": "Anesthesia Workstation",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Anesthesia Workstation",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/40d03357db2c9fb04fb6.png",
+              "source_url": "https://alispro.in/products/medical-equipment/anesthesia-equipment/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-028",
+              "name": "Anesthesia Trolley",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Anesthesia Trolley",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/2a14a630f93e2e235e44.png",
+              "source_url": "https://alispro.in/products/medical-equipment/anesthesia-equipment/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-029",
+              "name": "Anesthesia Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Anesthesia Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/1fe20a49b1324b28393b.png",
+              "source_url": "https://alispro.in/products/medical-equipment/anesthesia-equipment/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "cautery-machine",
+          "name": "Cautery Machine",
+          "products": [
+            {
+              "id": "hm-030",
+              "name": "Cautery Machine 400 Watt and Vessel Cautery Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Cautery Machine 400 Watt and Vessel Cautery Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/a0969ada4cc1f0d08f03.png",
+              "source_url": "https://alispro.in/products/medical-equipment/cautery-machine/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-031",
+              "name": "Cautery Machine 300, 250, 100 Watt",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Cautery Machine 300, 250, 100 Watt",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/f433203b12ce65a7c8f5.png",
+              "source_url": "https://alispro.in/products/medical-equipment/cautery-machine/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "x-ray-equipment",
+          "name": "X-Ray Equipment",
+          "products": [
+            {
+              "id": "hm-032",
+              "name": "X- Ray Table, Portable X- Ray, Hand X-Ray Machine[Dental], Fixed X- Ray, X-Ray Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "X- Ray Table, Portable X- Ray, Hand X-Ray Machine[Dental], Fixed X- Ray, X-Ray Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/a7c61e41d0941bd274ad.png",
+              "source_url": "https://alispro.in/products/medical-equipment/x-ray-equipment/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "oscillating-machine",
+          "name": "Oscillating Machine",
+          "products": [
+            {
+              "id": "hm-033",
+              "name": "Oscillating Drill, Saw Machine, Saw Machine Blade",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Oscillating Drill, Saw Machine, Saw Machine Blade",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/cf74f62148d70bd45433.png",
+              "source_url": "https://alispro.in/products/medical-equipment/oscillating-machine/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "common-health-care-equipment",
+          "name": "Common Health Care Equipment",
+          "products": [
+            {
+              "id": "hm-034",
+              "name": "ENT Head Light, Student Microscope, C-Arm Machine, Ultra Sound Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "ENT Head Light, Student Microscope, C-Arm Machine, Ultra Sound Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/4d86bc7f72b20922282d.png",
+              "source_url": "https://alispro.in/products/medical-equipment/common-health-care-equipment/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "oximeter-and-otoscope",
+          "name": "Oximeter and Otoscope",
+          "products": [
+            {
+              "id": "hm-035",
+              "name": "Oximeter",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Oximeter",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/48464a07444dcd66121f.png",
+              "source_url": "https://alispro.in/products/medical-equipment/oximeter-and-otoscope/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-036",
+              "name": "Otoscope",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Otoscope",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/df8dec7b6f40e16fea9d.png",
+              "source_url": "https://alispro.in/products/medical-equipment/oximeter-and-otoscope/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "nebulizer",
+          "name": "Nebulizer",
+          "products": [
+            {
+              "id": "hm-037",
+              "name": "Nebulizer Machine",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Nebulizer Machine",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/b698865d4a1a2a940b76.png",
+              "source_url": "https://alispro.in/products/medical-equipment/nebulizer/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "ot-table",
+          "name": "OT Table",
+          "products": [
+            {
+              "id": "hm-038",
+              "name": "Hydraulic OT Table",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hydraulic OT Table",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/7756aea01ead86d4fa5b.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-table/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-039",
+              "name": "Gynecology OT Table",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Gynecology OT Table",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/ecfe0b4455313519915e.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-table/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-040",
+              "name": "C-Arm Surgical OT Table",
+              "brand": "—",
+              "sku": "—",
+              "spec": "C-Arm Surgical OT Table",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/cac060406a1a04e87c1c.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-table/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "veterinary-ot-tables",
+          "name": "Veterinary OT Tables",
+          "products": [
+            {
+              "id": "hm-041",
+              "name": "Veterinary OT Table and Veterinary OT Table V-Fold",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Veterinary OT Table and Veterinary OT Table V-Fold",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/ad975aca5e8063678fbb.png",
+              "source_url": "https://alispro.in/products/ot-equipment/veterinary-ot-tables/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "surgical-ot-tables",
+          "name": "Surgical OT Tables",
+          "products": [
+            {
+              "id": "hm-042",
+              "name": "Orthopedic, Neuro, Spine Surgical OT Table",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Orthopedic, Neuro, Spine Surgical OT Table",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/72a132c746408ae4bfbf.png",
+              "source_url": "https://alispro.in/products/ot-equipment/surgical-ot-tables/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "ot-light",
+          "name": "OT Light",
+          "products": [
+            {
+              "id": "hm-043",
+              "name": "Double Dome OT Light",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Double Dome OT Light",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/b5eed324870a83b67d73.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-light/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-044",
+              "name": "Single Dome OT Light",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Single Dome OT Light",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/776f2c5efaad9931034a.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-light/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-045",
+              "name": "Single Dome OT Light with Standing Structure and Mobile Stand",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Single Dome OT Light with Standing Structure and Mobile Stand",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/5b1af541aaf5347ba3c8.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-light/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-046",
+              "name": "OT Light Attachments",
+              "brand": "—",
+              "sku": "—",
+              "spec": "OT Light Attachments",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/d385a06b2a5713414b7e.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-light/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-047",
+              "name": "Examination Light",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Examination Light",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/689e9520273684da91dc.png",
+              "source_url": "https://alispro.in/products/ot-equipment/ot-light/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "hospital-bed",
+          "name": "Hospital Bed",
+          "products": [
+            {
+              "id": "hm-048",
+              "name": "Manual Hospital Bed",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Manual Hospital Bed",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/581ed03b5083d52a923c.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-bed/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-049",
+              "name": "Electric Hospital Bed",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Electric Hospital Bed",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/4c0b8ad1283a11eb9a92.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-bed/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "medical-cart-and-examination-couch",
+          "name": "Medical Cart and Examination Couch",
+          "products": [
+            {
+              "id": "hm-050",
+              "name": "Hospital Crash Cart",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Crash Cart",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/2096420e7c296c76d7c2.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/medical-cart-and-examination-couch/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-051",
+              "name": "Hospital Examination Couch",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Examination Couch",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/910f6ef5076af2be1948.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/medical-cart-and-examination-couch/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "blood-donor-couches-and-hospital-trolley",
+          "name": "Blood Donor Couches and Hospital Trolley",
+          "products": [
+            {
+              "id": "hm-052",
+              "name": "Hospital Trolley",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Trolley",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/06606326982f4df745ac.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/blood-donor-couches-chairs-and-hospital-trolley/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-053",
+              "name": "Blood Donor Couches and Chairs",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Blood Donor Couches and Chairs",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/22288e52c6dd00f49daa.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/blood-donor-couches-chairs-and-hospital-trolley/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "hospital-stools-and-chairs",
+          "name": "Hospital Stools and Chairs",
+          "products": [
+            {
+              "id": "hm-054",
+              "name": "Hospital Stool",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Stool",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e13413e061664167797f.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-stools-and-chairs/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-055",
+              "name": "Hospital Chair",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Chair",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/ebdad2fab0e1c84ce8a3.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-stools-and-chairs/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "bed-side-locker-and-over-bed-table",
+          "name": "Bed Side Locker and Over Bed Table",
+          "products": [
+            {
+              "id": "hm-056",
+              "name": "Bed Side Hospital Locker",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Bed Side Hospital Locker",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/67a35b63e73880d82ff7.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/bed-side-locker-and-over-bed-table/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-057",
+              "name": "Over Bed Hospital Table",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Over Bed Hospital Table",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e743c80541e6eb995c4a.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/bed-side-locker-and-over-bed-table/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-058",
+              "name": "Hospital Rack",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Rack",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/f4c58f694f402dd66e08.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/bed-side-locker-and-over-bed-table/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "hospital-bed-mattress-and-ambulance-stretcher-trolley",
+          "name": "Hospital Bed Mattress and Ambulance Stretcher Trolley",
+          "products": [
+            {
+              "id": "hm-059",
+              "name": "ICU Hospital Bed Mattress",
+              "brand": "—",
+              "sku": "—",
+              "spec": "ICU Hospital Bed Mattress",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/c64f7811bd95cfcabc08.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-bed-mattress-and-ambulance-stretcher-trolley/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-060",
+              "name": "Semi Fowler Mattress",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Semi Fowler Mattress",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/556e19f90964f6a455b2.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-bed-mattress-and-ambulance-stretcher-trolley/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-061",
+              "name": "Hospital Plain Mattress",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Plain Mattress",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/c72728307b25fbda6aaf.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-bed-mattress-and-ambulance-stretcher-trolley/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-062",
+              "name": "Hospital Full Fowler Mattress",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Full Fowler Mattress",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/d7f29fb02cddb7ed71c6.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-bed-mattress-and-ambulance-stretcher-trolley/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-063",
+              "name": "Ambulance Trolley",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Ambulance Trolley",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e90e80c0b183795c1510.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/hospital-bed-mattress-and-ambulance-stretcher-trolley/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "iv-stand-curtain-set-and-lead-apron-hanger",
+          "name": "IV Stand Curtain Set and Lead Apron Hanger",
+          "products": [
+            {
+              "id": "hm-064",
+              "name": "Hospital IV Stand",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital IV Stand",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/361fb0d00b8eaa9da557.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/iv-stand-curtain-set-and-lead-apron-hanger/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-065",
+              "name": "Hospital Curtain Set",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Curtain Set",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/c9911e6da0f021834b6b.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/iv-stand-curtain-set-and-lead-apron-hanger/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-066",
+              "name": "Hospital Apron Hanger",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Apron Hanger",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e4d6b35b331f2e7ae92b.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/iv-stand-curtain-set-and-lead-apron-hanger/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "single-and-double-scrub-station",
+          "name": "Single and Double Scrub Station",
+          "products": [
+            {
+              "id": "hm-067",
+              "name": "Single Scrub Station",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Single Scrub Station",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/80b292a1129e88909216.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/single-and-double-scrub-station/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-068",
+              "name": "Double Scrub Station",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Double Scrub Station",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/74d88d192e4b16934a5c.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/single-and-double-scrub-station/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "folding-stretcher-and-foot-single-double-step",
+          "name": "Folding Stretcher and Foot Single Double Step",
+          "products": [
+            {
+              "id": "hm-069",
+              "name": "Folding Stretcher",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Folding Stretcher",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/f8adc4b9ae8f28862d7d.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/folding-stretcher-and-foot-single-double-step/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-070",
+              "name": "Hospital Foot Single/ Double Step",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Hospital Foot Single/ Double Step",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/db84dabf2c3db1f921db.png",
+              "source_url": "https://alispro.in/products/hospital-furniture/folding-stretcher-and-foot-single-double-step/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "infusion-and-transfusion",
+          "name": "Infusion and Transfusion",
+          "products": [
+            {
+              "id": "hm-071",
+              "name": "Infusion Medical Disposable",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Infusion Medical Disposable",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/3dc38a7d1f930da419ea.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/infusion-and-transfusion/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-072",
+              "name": "Transfusion Medical Disposable",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Transfusion Medical Disposable",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/b9e93c31d4b78b9b8f4e.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/infusion-and-transfusion/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "surgery-and-gastroenterology",
+          "name": "Surgery and Gastroenterology",
+          "products": [
+            {
+              "id": "hm-073",
+              "name": "Surgery Medical Equipment",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Surgery Medical Equipment",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/0f8bda0e7e84f1596611.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/surgery-and-gastroenterology/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-074",
+              "name": "Gastroenterology Medical Equipment",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Gastroenterology Medical Equipment",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/cbadc1bec67ee0356ef3.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/surgery-and-gastroenterology/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "urology",
+          "name": "Urology",
+          "products": [
+            {
+              "id": "hm-075",
+              "name": "Urine Bag",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Urine Bag",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/cc49db9bece6f96234cb.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/urology/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "respiratory",
+          "name": "Respiratory",
+          "products": [
+            {
+              "id": "hm-076",
+              "name": "Respiratory Equipments",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Respiratory Equipments",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/8aad72c15b6be2c6969a.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/respiratory/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "cardiology-and-gynaecology",
+          "name": "Cardiology and Gynaecology",
+          "products": [
+            {
+              "id": "hm-077",
+              "name": "Cardiology Medical Equipment",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Cardiology Medical Equipment",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/0e0f6dc5fa7987fd4056.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/cardiology-and-gynaecology/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-078",
+              "name": "Gynecology Medical equipment",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Gynecology Medical equipment",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/20dcb9ad2f0fb026b9b3.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/cardiology-and-gynaecology/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "laboratory-and-diagnostics",
+          "name": "Laboratory and Diagnostics",
+          "products": [
+            {
+              "id": "hm-079",
+              "name": "Laboratory Medical Disposable",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Laboratory Medical Disposable",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/944898af0ca480eb92a5.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/laboratory-and-diagnostics/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-080",
+              "name": "Diagnostics Equipment",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Diagnostics Equipment",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/7713739995e6616f72f3.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/laboratory-and-diagnostics/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "drape-and-disposable-kit",
+          "name": "Drape and Disposable Kit",
+          "products": [
+            {
+              "id": "hm-081",
+              "name": "Drape",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Drape",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/b00f27d3e03acc7a4e79.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/drape-and-disposable-kit/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-082",
+              "name": "Disposable Kit",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Disposable Kit",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/2ee6ef6028a400acd947.png",
+              "source_url": "https://alispro.in/products/medical-dressing-and-disposable/drape-and-disposable-kit/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "human-tooth-ear-head-nose-and-brain",
+          "name": "Human Tooth Ear Head Nose and Brain",
+          "products": [
+            {
+              "id": "hm-083",
+              "name": "Human Laboratory Equipment- Upper Body",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Human Laboratory Equipment- Upper Body",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/86d178a87f8616b0a427.png",
+              "source_url": "https://alispro.in/products/scientific-and-laboratory-equipment/human-tooth-ear-head-nose-and-brain/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-084",
+              "name": "Human Laboratory Equipment- Full Body",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Human Laboratory Equipment- Full Body",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/62008d58a56e81a8ae23.png",
+              "source_url": "https://alispro.in/products/scientific-and-laboratory-equipment/human-tooth-ear-head-nose-and-brain/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-085",
+              "name": "Botany and Anatomy Laboratory Model",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Botany and Anatomy Laboratory Model",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/0f216493919b2967740d.png",
+              "source_url": "https://alispro.in/products/scientific-and-laboratory-equipment/human-tooth-ear-head-nose-and-brain/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-086",
+              "name": "Condenser Laboratory Equipment",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Condenser Laboratory Equipment",
+              "price": null,
+              "image": "https://alispromeditours.com/uploads/products/994c364f777f182111bf.png",
+              "source_url": "https://alispro.in/products/scientific-and-laboratory-equipment/human-tooth-ear-head-nose-and-brain/",
+              "source_site": "alispro.in"
+            }
+          ]
+        },
+        {
+          "id": "general-surgery-scissors",
+          "name": "General Surgery Scissors",
+          "products": [
+            {
+              "id": "hm-087",
+              "name": "General Surgery Suture Scissors",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Suture Scissors",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/eadd310b74f796e01da8.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-088",
+              "name": "Lister Bandage Scissors",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Lister Bandage Scissors",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/c49a7e2ead0e4fadf25e.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-089",
+              "name": "Mayo Scissors",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Mayo Scissors",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e561af0ae8721426a6ba.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-090",
+              "name": "Dissecting Scissor",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Dissecting Scissor",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e512782e8eac03528bd1.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-091",
+              "name": "Supercut Scissors",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Supercut Scissors",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/6e2f13eaf2453e9fe4e0.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-092",
+              "name": "General Surgery Needle Holder",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Needle Holder",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/d020fc62f8fa314ed5f6.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-093",
+              "name": "General Surgery Needle Cases",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Needle Cases",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/26a3a75d3eef08d302d9.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-094",
+              "name": "General Surgery Dressing and Tissue Forceps",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Dressing and Tissue Forceps",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/23277c7b9475031efba0.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-095",
+              "name": "General Surgery Clamp",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Clamp",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e1a7f427b4626f3a063d.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-096",
+              "name": "General Surgery Skin Hook",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Skin Hook",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/6892d6ef2ebbfb71fc46.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-097",
+              "name": "General Surgery Hand Held Retractors",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Hand Held Retractors",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e3e91c4f5e6d21e3858e.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-098",
+              "name": "Universal Ring Retractor System",
+              "brand": "—",
+              "sku": "—",
+              "spec": "Universal Ring Retractor System",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/9b0ba83ea22e890af4db.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-099",
+              "name": "GENERAL SURGERY Probes, Dilators and Scoops",
+              "brand": "—",
+              "sku": "—",
+              "spec": "GENERAL SURGERY Probes, Dilators and Scoops",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/d765f4c404b98541e54a.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-100",
+              "name": "GENERAL SURGERY Scalpel Handles",
+              "brand": "—",
+              "sku": "—",
+              "spec": "GENERAL SURGERY Scalpel Handles",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/778c9dbec8ac5efbff9b.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-101",
+              "name": "General Surgery Sterile Scalpels With Plastic Handle",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Sterile Scalpels With Plastic Handle",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/e192f298ed9288aef687.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-102",
+              "name": "General Surgery Amputation and Autopsy Instruments",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Amputation and Autopsy Instruments",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/ca5588f7e4d332719621.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-103",
+              "name": "General Surgery Suction Tubes",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Suction Tubes",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/90bd994076776bccc399.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-104",
+              "name": "General Surgery Rulers & Calipers, Accessories",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Rulers & Calipers, Accessories",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/3079b483803c4d7b973e.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            },
+            {
+              "id": "hm-105",
+              "name": "General Surgery Metal Bowls and Cups",
+              "brand": "—",
+              "sku": "—",
+              "spec": "General Surgery Metal Bowls and Cups",
+              "price": null,
+              "image": "https://alispro.in/uploads/products/336631d5f0c437427212.png",
+              "source_url": "https://alispro.in/products/surgical-instruments/general-surgery-scissors/",
+              "source_site": "alispro.in"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
